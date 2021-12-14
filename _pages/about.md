@@ -58,7 +58,7 @@ Chinese Control And Decision Conference (**CCDC**), 2019.<br>
 
 ## Patents
 
-* 施重阳, 廖兆和, **柴增豪**. 一种基于深度卷积神经网络的亚马逊棋招法生成方法. (发明专利, 授权公告号: CN111330255B)
+* 施重阳, 廖兆和, **柴增豪**. 一种基于深度卷积神经网络的亚马逊棋招法生成方法 (发明专利, 授权公告号: CN111330255B). 
 
 ## Awards and Honors
 * Ping An AI BANK Scholarship (**<font color='red'>TOP 5%</font>**), 2021.09.
@@ -71,7 +71,7 @@ Chinese Control And Decision Conference (**CCDC**), 2019.<br>
 <!-- * First Prize Scholarship of Beijing Institute of Technology (<font color='red'>TOP 5%</font>), 2020.03 -->
 <!-- * Ministry of Education National Scholarship (**<font color='red'>TOP 1%</font>**), 2019.10. -->
 * Beijing Institute of Technology Competition Scholarship (**<font color='red'>TOP 5%, 2 times</font>**), 2019-2020.
-* **<font color='red'>Gold Medal</font>** of ICGA Computer Olympiad 2019, 2019.08
+* **<font color='red'>Gold Medal</font>** of ICGA Computer Olympiad 2019, 2019.08.
 <!-- * First Prize Scholarship of Beijing Institute of Technology (<font color='red'>TOP 5%</font>), 2019.09 -->
 * **<font color='red'>Meritorious Winner</font>** of MCM/ICM Contest in Modeling, 2019.04.
 * Ministry of Industry and Information Technology Innovation Scholarship (**<font color='red'>TOP 1%</font>**), 2019.04.
