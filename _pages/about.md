@@ -20,15 +20,6 @@ I am currently a research intern at Tencent AI Lab, Shenzhen, China (from 2021.0
 * [HHF: Hashing-guided Hinge Function for Deep Hashing Retrieval](https://arxiv.org/abs/2112.02225)<br>
 Chengyin Xu\*, Zhengzhuo Xu\*, **Zenghao Chai**\*, Hongjia Li, Qiruyi Zuo, Lingyu Yang, Chun Yuan.<br>
 arXiv preprint arXiv:2112.02225, 2021.<br>
- <!-- <details><summary>[Bibtex]</summary>
-<div id="bib_luo2019constrained" class="bibtex noshow">
-<pre>@article{xu2021hhf,
-title={HHF: Hashing-guided Hinge Function for Deep Hashing Retrieval},
-  author={Xu, Chengyin and Xu, Zhengzhuo and Chai, Zenghao and Li, Hongjia and Zuo, Qiruyi and Yang, Lingyu and Yuan, Chun},
-  journal={arXiv preprint arXiv:2112.02225},
-  year={2021}
-}</pre></div></details>
- -->
 
 
 
