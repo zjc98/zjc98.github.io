@@ -29,7 +29,7 @@ title={HHF: Hashing-guided Hinge Function for Deep Hashing Retrieval},
   year={2021}
 }</pre></div></details>
 
-<!doctype html>
+<html>
 <body class="page">
 <style>
     /*********************************
