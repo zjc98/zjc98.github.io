@@ -61,19 +61,19 @@ div.bibtex pre { font-size: 75%; overflow: auto;  width: 100%; padding: 0em 0em;
 <!-- <h4 style="margin-bottom:0px;padding-top:20px;">Conference Publications</h4> -->
   <ul class="biblist">
 
-  <!-- Item: wang2021aaai -->
+
   <li ><p>
   Chengyin Xu*, Zhengzhuo Xu*, <b>Zenghao Chai</b>*, Hongjia Li, Qiruyi Zuo, Lingyu Yang, Chun Yuan. <br>
   &ldquo;HHF: Hashing-guided Hinge Function for Deep Hashing Retrieval.&rdquo;<br>
   <i>arXiv preprint arXiv:2112.02225</i>, 2021.  
 
   <br />
-  <a href="javascript:toggleBibtex('meng2020beta')">[BibTeX]</a>
-  <a href="../files/meng2020beta.pdf">[PDF]</a>
-    <a href="https://beta-recsys.readthedocs.io/">[Project]</a>
+  <a href="javascript:toggleBibtex('HHF2021')">[BibTeX]</a>
+  <a href="https://arxiv.org/abs/2112.02225">[PDF]</a>
+    <!-- <a href="https://beta-recsys.readthedocs.io/">[Project]</a> -->
     
   </p>
-  <div id="wang2021aaai" class="bibtex noshow">
+  <div id="HHF2021" class="bibtex noshow">
   <pre>
 @article{xu2021hhf,
 title={HHF: Hashing-guided Hinge Function for Deep Hashing Retrieval},
