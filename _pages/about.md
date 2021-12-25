@@ -58,10 +58,25 @@ div.bibtex {
 }
 div.bibtex pre { font-size: 75%; overflow: auto;  width: 100%; padding: 0em 0em;}</style>
 
+<script type="text/javascript">
+    <!--
+    // Toggle Display of BibTeX
+    function toggleBibtex(articleid) {
+        var bib = document.getElementById('bib_'+articleid);
+        if (bib) {
+            if(bib.className.indexOf('bibtex') != -1) {
+                bib.className.indexOf('noshow') == -1?bib.className = 'bibtex noshow':bib.className = 'bibtex';
+            }
+        } else {
+            return;
+        }
+    }
+-->
+    </script>
+
+
 <!-- <h4 style="margin-bottom:0px;padding-top:20px;">Conference Publications</h4> -->
   <ul class="biblist">
-
-
   <li ><p>
   Chengyin Xu*, Zhengzhuo Xu*, <b>Zenghao Chai</b>*, Hongjia Li, Qiruyi Zuo, Lingyu Yang, Chun Yuan. <br>
   &ldquo;HHF: Hashing-guided Hinge Function for Deep Hashing Retrieval.&rdquo;<br>
