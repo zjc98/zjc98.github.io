@@ -20,6 +20,75 @@ I am currently a research intern at Tencent AI Lab, Shenzhen, China (from 2021.0
 * [HHF: Hashing-guided Hinge Function for Deep Hashing Retrieval](https://arxiv.org/abs/2112.02225)<br>
 Chengyin Xu\*, Zhengzhuo Xu\*, **Zenghao Chai**\*, Hongjia Li, Qiruyi Zuo, Lingyu Yang, Chun Yuan.<br>
 arXiv preprint arXiv:2112.02225, 2021.<br>
+ <details><summary>[Bibtex]</summary>
+<div id="bib_luo2019constrained" class="bibtex noshow">
+<pre>@article{xu2021hhf,
+title={HHF: Hashing-guided Hinge Function for Deep Hashing Retrieval},
+  author={Xu, Chengyin and Xu, Zhengzhuo and Chai, Zenghao and Li, Hongjia and Zuo, Qiruyi and Yang, Lingyu and Yuan, Chun},
+  journal={arXiv preprint arXiv:2112.02225},
+  year={2021}
+}</pre></div></details>
+
+
+<body class="page">
+<style>
+    /*********************************
+     The list of publication items
+     *********************************/
+/* The list of items */
+.biblist { }
+
+/* The item */
+.biblist li { }
+
+/* You can define custom styles for plstyle field here. */
+
+
+/*************************************
+ The box that contain BibTeX code
+ *************************************/
+div.noshow { display: none; }
+div.bibtex {
+	margin-right: 0%;
+	margin-top: 1.2em;
+	margin-bottom: 1em;
+	border: 1px solid silver;
+	padding: 0em 1em;
+	background: #ffffee;
+}
+div.bibtex pre { font-size: 75%; overflow: auto;  width: 100%; padding: 0em 0em;}</style>
+
+<!-- <h4 style="margin-bottom:0px;padding-top:20px;">Conference Publications</h4> -->
+  <ul class="biblist">
+
+  <!-- Item: wang2021aaai -->
+  <li ><p>
+  Chengyin Xu*, Zhengzhuo Xu*, <b>Zenghao Chai</b>*, Hongjia Li, Qiruyi Zuo, Lingyu Yang, Chun Yuan. <br>
+  &ldquo;HHF: Hashing-guided Hinge Function for Deep Hashing Retrieval.&rdquo;<br>
+  <i>arXiv preprint arXiv:2112.02225</i>, 2021.  
+
+  <br />
+  <a href="javascript:toggleBibtex('meng2020beta')">[BibTeX]</a>
+  <a href="../files/meng2020beta.pdf">[PDF]</a>
+    <a href="https://beta-recsys.readthedocs.io/">[Project]</a>
+    
+  </p>
+  <div id="wang2021aaai" class="bibtex noshow">
+  <pre>
+@article{xu2021hhf,
+title={HHF: Hashing-guided Hinge Function for Deep Hashing Retrieval},
+  author={Xu, Chengyin and Xu, Zhengzhuo and Chai, Zenghao and Li, Hongjia and Zuo, Qiruyi and Yang, Lingyu and Yuan, Chun},
+  journal={arXiv preprint arXiv:2112.02225},
+  year={2021}
+}
+  </pre>
+  </div>
+  </li>
+
+
+
+
+
 
 * [Semantic-Sparse Colorization Network for Deep Exemplar-based Colorization](https://arxiv.org/abs/2112.01335)<br>
 Yunpeng Bai, Chao Dong, **Zenghao Chai**, Andong Wang, Zhengzhuo Xu, Chun Yuan.<br>
