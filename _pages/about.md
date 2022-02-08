@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 ## Biography
-I am currently a second-year Master candidate in Electronic Engineering (Computer Technology) at [Tsinghua Shenzhen International Graduate School](https://www.sigs.tsinghua.edu.cn/), [Tsinghua University](https://www.tsinghua.edu.cn/), advised by Dr. [Chun Yuan](https://scholar.google.com/citations?user=fYdxi2sAAAAJ&hl=zh-CN&oi=ao). My research interests are in Computer Vision and Computer Graphic. I received my Bachelor degree in Software Engineering from [School of Computer Science & Technology](https://cs.bit.edu.cn/), [Beijing Institute of Technology](http://www.bit.edu.cn/). 
+I am currently a second-year Master candidate in Electronic Engineering (Computer Technology) at [Tsinghua Shenzhen International Graduate School](https://www.sigs.tsinghua.edu.cn/), [Tsinghua University](https://www.tsinghua.edu.cn/), advised by Prof. [Chun Yuan](https://scholar.google.com/citations?user=fYdxi2sAAAAJ&hl=zh-CN&oi=ao). My research interests are in Computer Vision and Computer Graphic. I received my Bachelor degree in Software Engineering from [School of Computer Science & Technology](https://cs.bit.edu.cn/), [Beijing Institute of Technology](http://www.bit.edu.cn/). 
 
 I am currently a research intern at Tencent AI Lab, Shenzhen, China (from 2021.03), leader by Dr. [Linchao Bao](https://linchaobao.github.io/). Before that, I was a Software QA Intern at [MEGVII](https://www.megvii.com/), Beijing, China (2019.12-2020.5).
 
@@ -18,7 +18,7 @@ I am currently a research intern at Tencent AI Lab, Shenzhen, China (from 2021.0
 \'\*\' indicates equal contribution
 
 * [HHF: Hashing-guided Hinge Function for Deep Hashing Retrieval](https://arxiv.org/abs/2112.02225)<br>
-Chengyin Xu\*, Zhengzhuo Xu\*, **Zenghao Chai**\*, Hongjia Li, Qiruyi Zuo, Lingyu Yang, Chun Yuan.<br>
+Chengyin Xu\*, **Zenghao Chai**\*, Zhengzhuo Xu\*, Hongjia Li, Qiruyi Zuo, Lingyu Yang, Chun Yuan.<br>
 arXiv preprint arXiv:2112.02225, 2021.<br>
 
 
@@ -29,7 +29,7 @@ arXiv preprint arXiv:2112.01335, 2021.<br>
 
 * [MoDeRNN: Towards Fine-grained Motion Details for Spatiotemporal Predictive Learning](https://arxiv.org/abs/2110.12978)<br>
 **Zenghao Chai**, Zhengzhuo Xu, Chun Yuan.<br>
-arXiv preprint arXiv:2110.12978, 2021.<br>
+IEEE International Conference on Acoustics, Speech and Signal Processing (**ICASSP**), 2022.<br>
 
 * [Towards Calibrated Model for Long-Tailed Visual Recognition from Prior Perspective](https://openreview.net/forum?id=vqzAfN-BoA_)<br>
 Zhengzhuo Xu\*, **Zenghao Chai**\*, Chun Yuan<br>
@@ -60,7 +60,9 @@ Chinese Control And Decision Conference (**CCDC**), 2019.<br>
 
 ## Patents
 
-* 施重阳, 廖兆和, **柴增豪**. 一种基于深度卷积神经网络的亚马逊棋招法生成方法 (发明专利, 授权公告号: CN111330255B). 
+* Chongyang Shi, Zhaohe Liao, **Zenghao Chai**. A Move Generation Method for *Game of the Amazons* Based on Deep Convolutional Neural Network (Invention patent. Announcement Number of Authorization: CN111330255B). 
+
+
 
 ## Awards and Honors
 * Ping An AI BANK Scholarship (**<font color='red'>TOP 5%</font>**), 2021.09.
