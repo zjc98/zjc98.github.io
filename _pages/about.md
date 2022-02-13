@@ -66,10 +66,10 @@ Chinese Control And Decision Conference (**CCDC**), 2019.<br>
 
 ## Awards and Honors
 * Ping An AI BANK Scholarship (**<font color='red'>TOP 5%</font>**), 2021.09.
-* Beijing Outstanding Graduate (**<font color='red'>Top 5%</font>**), 2020.07.
-* Beijing Institute of Technology Outstanding Graduate (**<font color='red'>Top 5%</font>**), 2020.07.
+* Beijing Outstanding Graduate (**<font color='red'>TOP 5%</font>**), 2020.07.
+* Beijing Institute of Technology Outstanding Graduate (**<font color='red'>TOP 5%</font>**), 2020.07.
 * Xu Teli Scholarship (**<font color='red'>TOP 0.07%, best honor for undergraduates</font>**), 2020.06.
-* Beijing Merit Student (**<font color='red'>Top 1%</font>**), 2020.05.
+* Beijing Merit Student (**<font color='red'>TOP 1%</font>**), 2020.05.
 <!-- * Second Prize of Beijing Institute of Technology Competition Scholarship, 2019.09 -->
 <!-- * First Prize Scholarship of Beijing Institute of Technology (<font color='red'>TOP 5%</font>), 2020.09 -->
 <!-- * First Prize Scholarship of Beijing Institute of Technology (<font color='red'>TOP 5%</font>), 2020.03 -->
@@ -89,6 +89,6 @@ Chinese Control And Decision Conference (**CCDC**), 2019.<br>
 * **<font color='red'>First Prize</font>** of China Mathematics Competition, 2017.10.
 * **<font color='red'>First Prize</font>** of Beijing Mathematics Competition, 2017.10.
 * JJWorld Scholarship (**<font color='red'>TOP 5%</font>**), 2017.09.
-* First Prize Scholarship of Beijing Institute of Technology (**<font color='red'>Top 5%, 6 times</font>**), 2017-2020.
+* First Prize Scholarship of Beijing Institute of Technology (**<font color='red'>TOP 5%, 6 times</font>**), 2017-2020.
 <!-- * Second Prize Scholarship of Beijing Institute of Technology (Top 15%), 2017.03 -->
 
