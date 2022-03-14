@@ -38,7 +38,7 @@ Zhengzhuo Xu\*, **Zenghao Chai**\*, Chun Yuan<br>
 Thirty-Fifth Conference on Neural Information Processing Systems (**NeurIPS**), 2021.<br>
 
 
-* [Research on learning mechanism designing for equilibrated bipolar spiking neural networks](https://link.springer.com/article/10.1007/s10462-020-09818-5)<br>
+* [Research on Learning Mechanism Designing for Equilibrated Bipolar Spiking Neural Networks](https://link.springer.com/article/10.1007/s10462-020-09818-5)<br>
 Xu Yang, Jiajun Lin, Wenhao Zheng, Jinfeng Zhao, Mengyao Ji, Yunlin Lei, **Zenghao Chai**.<br>
 **Artificial Intelligence Review**, 2020.<br>
 
@@ -46,7 +46,7 @@ Xu Yang, Jiajun Lin, Wenhao Zheng, Jinfeng Zhao, Mengyao Ji, Yunlin Lei, **Zengh
 **Zenghao Chai**, Xu Yang, Zhilin Liu, Yunlin Lei, Wenhao Zheng, Mengyao Ji, Jinfeng Zhao.<br>
 **IEEE Access**, 2019.<br>
 
-* [Constructing an associative memory system using spiking neural network](https://www.frontiersin.org/articles/10.3389/fnins.2019.00650/full)<br>
+* [Constructing an Associative Memory System Using Spiking Neural Network](https://www.frontiersin.org/articles/10.3389/fnins.2019.00650/full)<br>
 Hu He, Yingjie Shang, Xu Yang, Yingze Di, Jiajun Lin, Yimeng Zhu, Wenhao Zheng, Jinfeng Zhao, Mengyao Ji, Liya Dong, Ning Deng, Yunlin Lei, **Zenghao Chai**.<br>
 **Frontiers in neuroscience**, 2019.<br>
 
