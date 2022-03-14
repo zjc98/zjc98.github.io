@@ -25,7 +25,7 @@ arXiv preprint arXiv:2112.02225, 2021.<br>
 Yunpeng Bai, Chao Dong, **Zenghao Chai**, Andong Wang, Zhengzhuo Xu, Chun Yuan.<br>
 arXiv preprint arXiv:2112.01335, 2021.<br>
 
-* [CMS-LSTM: Context-Embedding and Multi-Scale Spatiotemporal-Expression LSTM for Video Prediction](https://arxiv.org/abs/2102.03586)<br>
+* [CMS-LSTM: Context Embedding and Multi-Scale Spatiotemporal Expression LSTM for Predictive Learning](https://arxiv.org/abs/2102.03586)<br>
 **Zenghao Chai**, Chun Yuan, Zhihui Lin, Yunpeng Bai.<br>
 IEEE International Conference on Multimedia and Expo (**ICME**), 2022.<br>
 
