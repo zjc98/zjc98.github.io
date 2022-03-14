@@ -21,11 +21,13 @@ I am currently a research intern at Tencent AI Lab, Shenzhen, China (from 2021.0
 Chengyin Xu\*, **Zenghao Chai**\*, Zhengzhuo Xu\*, Hongjia Li, Qiruyi Zuo, Lingyu Yang, Chun Yuan.<br>
 arXiv preprint arXiv:2112.02225, 2021.<br>
 
-
-
 * [Semantic-Sparse Colorization Network for Deep Exemplar-based Colorization](https://arxiv.org/abs/2112.01335)<br>
 Yunpeng Bai, Chao Dong, **Zenghao Chai**, Andong Wang, Zhengzhuo Xu, Chun Yuan.<br>
 arXiv preprint arXiv:2112.01335, 2021.<br>
+
+* [CMS-LSTM: Context-Embedding and Multi-Scale Spatiotemporal-Expression LSTM for Video Prediction](https://arxiv.org/abs/2102.03586)<br>
+**Zenghao Chai**, Chun Yuan, Zhihui Lin, Yunpeng Bai.<br>
+IEEE International Conference on Multimedia and Expo (**ICME**), 2022.<br>
 
 * [MoDeRNN: Towards Fine-grained Motion Details for Spatiotemporal Predictive Learning](https://arxiv.org/abs/2110.12978)<br>
 **Zenghao Chai**, Zhengzhuo Xu, Chun Yuan.<br>
@@ -35,9 +37,6 @@ IEEE International Conference on Acoustics, Speech and Signal Processing (**ICAS
 Zhengzhuo Xu\*, **Zenghao Chai**\*, Chun Yuan<br>
 Thirty-Fifth Conference on Neural Information Processing Systems (**NeurIPS**), 2021.<br>
 
-* [CMS-LSTM: Context-Embedding and Multi-Scale Spatiotemporal-Expression LSTM for Video Prediction](https://arxiv.org/abs/2102.03586)<br>
-**Zenghao Chai**, Chun Yuan, Zhihui Lin, Yunpeng Bai.<br>
-arXiv preprint arXiv:2102.03586, 2021.<br>
 
 * [Research on learning mechanism designing for equilibrated bipolar spiking neural networks](https://link.springer.com/article/10.1007/s10462-020-09818-5)<br>
 Xu Yang, Jiajun Lin, Wenhao Zheng, Jinfeng Zhao, Mengyao Ji, Yunlin Lei, **Zenghao Chai**.<br>
