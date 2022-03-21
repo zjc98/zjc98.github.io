@@ -18,7 +18,7 @@ I am currently a research intern at Tencent AI Lab, Shenzhen, China (from 2021.0
 \'\*\' indicates equal contribution
 
 * [REALY: Rethinking the Evaluation of 3D Face Reconstruction](https://arxiv.org/abs/2203.09729)<br>
-**Zenghao Chai**\*, Haoxian Zhang\*, Jing Ren, Di Kang, Zhengzhuo Xu, Xuefei Zhe, Chun Yuan, Linchao Bao<br>
+**Zenghao Chai**\*, Haoxian Zhang\*, Jing Ren, Di Kang, Zhengzhuo Xu, Xuefei Zhe, Chun Yuan, Linchao Bao.<br>
 arXiv preprint arXiv:2203.09729, 2022.
 
 * [HHF: Hashing-guided Hinge Function for Deep Hashing Retrieval](https://arxiv.org/abs/2112.02225)<br>
@@ -38,7 +38,7 @@ IEEE International Conference on Multimedia and Expo (**ICME**), 2022.<br>
 IEEE International Conference on Acoustics, Speech and Signal Processing (**ICASSP**), 2022.<br>
 
 * [Towards Calibrated Model for Long-Tailed Visual Recognition from Prior Perspective](https://openreview.net/forum?id=vqzAfN-BoA_)<br>
-Zhengzhuo Xu\*, **Zenghao Chai**\*, Chun Yuan<br>
+Zhengzhuo Xu\*, **Zenghao Chai**\*, Chun Yuan.<br>
 Thirty-Fifth Conference on Neural Information Processing Systems (**NeurIPS**), 2021.<br>
 
 
