@@ -11,7 +11,7 @@ redirect_from:
 ## Biography
 I am currently a second-year Master candidate in Electronic Engineering (Computer Technology) at [Tsinghua Shenzhen International Graduate School](https://www.sigs.tsinghua.edu.cn/), [Tsinghua University](https://www.tsinghua.edu.cn/), advised by Prof. [Chun Yuan](https://scholar.google.com/citations?user=fYdxi2sAAAAJ&hl=zh-CN&oi=ao). My research interests are in Computer Vision and Computer Graphic. I received my Bachelor degree in Software Engineering from [School of Computer Science & Technology](https://cs.bit.edu.cn/), [Beijing Institute of Technology](http://www.bit.edu.cn/). 
 
-I am currently a research intern at Tencent AI Lab, Shenzhen, China (from 2021.03), leader by Dr. [Linchao Bao](https://linchaobao.github.io/). Before that, I was a Software QA Intern at [MEGVII](https://www.megvii.com/), Beijing, China (2019.12-2020.5).
+I am currently a research intern at Microsoft Research Asia, Beijing, China (from 2022.05). Before that, I was a research intern at Tencent AI Lab, Shenzhen, China (2021.03-2022.05). Prior to Tencent, I was a Software QA Intern at [MEGVII](https://www.megvii.com/), Beijing, China (2019.12-2020.5).
 
 
 ## Publications and Preprints
