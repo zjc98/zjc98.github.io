@@ -8,10 +8,85 @@ redirect_from:
   - /about.html
 ---
 
-## Biography
-I am currently a second-year Master candidate in Electronic Engineering (Computer Technology) at [Tsinghua Shenzhen International Graduate School](https://www.sigs.tsinghua.edu.cn/), [Tsinghua University](https://www.tsinghua.edu.cn/), advised by Prof. [Chun Yuan](https://scholar.google.com/citations?user=fYdxi2sAAAAJ&hl=zh-CN&oi=ao). My research interests are in Computer Vision and Computer Graphic. I received my Bachelor degree in Software Engineering from [School of Computer Science & Technology](https://cs.bit.edu.cn/), [Beijing Institute of Technology](http://www.bit.edu.cn/). 
 
-I am currently a research intern at Microsoft Research Asia, Beijing, China (from 2022.05). Before that, I was a research intern at Tencent AI Lab, Shenzhen, China (2021.03-2022.05). Prior to Tencent, I was a Software QA Intern at [MEGVII](https://www.megvii.com/), Beijing, China (2019.12-2020.5).
+<style>
+  .flex-between {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+  .badge {
+    width: 70px;
+    /* height: 50px; */
+  }
+  .badge2 {
+    width: 100px;
+    /* height: 50px; */
+  }
+</style>
+
+
+## Biography
+I am currently a second-year Master candidate in Electronic Engineering (Computer Technology) at [Tsinghua Shenzhen International Graduate School](https://www.sigs.tsinghua.edu.cn/), [Tsinghua University](https://www.tsinghua.edu.cn/), advised by Prof. [Chun Yuan](https://scholar.google.com/citations?user=fYdxi2sAAAAJ&hl=zh-CN&oi=ao). My research interests are in Computer Vision and Computer Graphics. I received my Bachelor degree in Software Engineering from [School of Computer Science & Technology](https://cs.bit.edu.cn/), [Beijing Institute of Technology](http://www.bit.edu.cn/). 
+
+
+## Education
+<div class="flex-between">
+  <ul>
+  <li>2020.09 - Present</li>
+  - Master Candidate at <a href="https://www.sigs.tsinghua.edu.cn/">Tsinghua Shenzhen International Graduate School</a>, <a href="https://www.tsinghua.edu.cn/">Tsinghua University</a>, supervised by <i>Prof</i>. <a href="https://www.sigs.tsinghua.edu.cn/yc2/main.htm">Chun Yuan</a>.<br>
+  - GPA: <b>3.74</b>/4.00<br>
+  - Research Topics: Computer Vision, Computer Graphics, Machine Learning.
+  </ul>
+  <img class="badge" src="../images/tsinghua.png">
+</div>
+
+
+<div class="flex-between">
+  <ul>
+  <li>2016.09 - 2020.07</li>
+  - Bachelor of Software Engineering in <a href="https://cs.bit.edu.cn/">School of Computer Science & Technology</a>, <a href="http://www.bit.edu.cn/">Beijing Institute of Technology</a>. <br>
+  - GPA: <b>90.97</b>/100 (Top 1%)
+  </ul>
+  <img class="badge" src="../images/bit.png">
+</div>
+
+
+## Work Experience
+<div class="flex-between">
+  <ul>
+  <li>2022.05 - Present</li>
+  - Research Intern at <a href="https://www.msra.cn/">Microsoft Research Asia</a>, Deep and Reinforcement Learning Group, Machine Learning Area, Beijing, China. <br>
+  - Supervised by <a href="https://www.microsoft.com/en-us/research/people/xuta/">Xu Tan</a>.<br>
+  - Research Topics: Talking Face.
+  </ul>
+  <img class="badge2" src="../images/msra.png">
+</div>
+
+
+<div class="flex-between">
+  <ul>
+  <li>2021.03 - 2022.05</li>
+  - Research Intern at <a href="https://ai.tencent.com/ailab/en/index/">Tencent AI Lab</a>, Virtual Human Group, Shenzhen, China. <br>
+  - Supervised by <a href="http://linchaobao.github.io/">Linchao Bao</a> and Haoxian Zhang.<br>
+  - Research Topics: 3D Face Reconstruction.
+  </ul>
+  <img class="badge2" src="../images/tencent.png">
+</div>
+
+<div class="flex-between">
+  <ul>
+  <li>2019.12 - 2020.05</li>
+  - Software QA Intern at <a href="https://www.megvii.com/">MEGVII</a>, Beijing, China.<br>
+  </ul>
+  <img class="badge2" src="../images/megvii.png">
+</div>
+
+
+
+<!-- I am currently a research intern at Microsoft Research Asia, Beijing, China (from 2022.05). Before that, I was a research intern at Tencent AI Lab, Shenzhen, China (2021.03-2022.05). Prior to Tencent, I was a Software QA Intern at [MEGVII](https://www.megvii.com/), Beijing, China (2019.12-2020.5). -->
+
+
 
 
 ## Publications and Preprints
@@ -62,8 +137,9 @@ Chinese Control And Decision Conference (**CCDC**), 2019.<br>
 
 
 ## Patents
+* Chun Yuan, **Zenghao Chai**, Zhengzhuo Xu. A Lightweight Fine-grained Spatiotemporal Predictive Method and System". Invention patent. Published Application Number: CN114445463A. 2022.
 
-* Chongyang Shi, Zhaohe Liao, **Zenghao Chai**. A Move Generation Method for *Game of the Amazons* Based on Deep Convolutional Neural Network (Invention patent. Announcement Number of Authorization: CN111330255B). 
+* Chongyang Shi, Zhaohe Liao, **Zenghao Chai**. A Move Generation Method for *Game of the Amazons* Based on Deep Convolutional Neural Network. Invention patent. Authorization Announcement Number: CN111330255B. 2020. 
 
 
 
