@@ -84,13 +84,12 @@ I am currently a second-year Master candidate in Electronic Engineering (Compute
 
 
 
-<!-- I am currently a research intern at Microsoft Research Asia, Beijing, China (from 2022.05). Before that, I was a research intern at Tencent AI Lab, Shenzhen, China (2021.03-2022.05). Prior to Tencent, I was a Software QA Intern at [MEGVII](https://www.megvii.com/), Beijing, China (2019.12-2020.5). -->
-
-
-
 
 ## Publications and Preprints
-\'\*\' indicates equal contribution
+\'\*\' indicates equal contributions.
+
+* HyP$^2$ Loss: Beyond Hypersphere Metric Space for Multi-label Image Retrieval<br>
+Chengyin Xu\*, **Zenghao Chai**\*, Zhengzhuo Xu, Chun Yuan, Yanbo Fan, Jue Wang.<br> ACM International Conference on Multimedia (**ACMMM**). 2022.<br>
 
 * [REALY: Rethinking the Evaluation of 3D Face Reconstruction](https://arxiv.org/abs/2203.09729)<br>
 **Zenghao Chai**\*, Haoxian Zhang\*, Jing Ren, Di Kang, Zhengzhuo Xu, Xuefei Zhe, Chun Yuan, Linchao Bao.<br>
