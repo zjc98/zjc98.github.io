@@ -88,9 +88,6 @@ I am currently a second-year Master candidate in Electronic Engineering (Compute
 ## Publications and Preprints
 \'\*\' indicates equal contributions.
 
-* HyP$^2$ Loss: Beyond Hypersphere Metric Space for Multi-label Image Retrieval<br>
-Chengyin Xu\*, **Zenghao Chai**\*, Zhengzhuo Xu, Chun Yuan, Yanbo Fan, Jue Wang.<br> ACM International Conference on Multimedia (**ACMMM**), 2022.<br>
-
 * [REALY: Rethinking the Evaluation of 3D Face Reconstruction](https://arxiv.org/abs/2203.09729)<br>
 **Zenghao Chai**\*, Haoxian Zhang\*, Jing Ren, Di Kang, Zhengzhuo Xu, Xuefei Zhe, Chun Yuan, Linchao Bao.<br>
 European Conference on Computer Vision (**ECCV**), 2022.<br>
@@ -98,6 +95,10 @@ European Conference on Computer Vision (**ECCV**), 2022.<br>
 * [Semantic-Sparse Colorization Network for Deep Exemplar-based Colorization](https://arxiv.org/abs/2112.01335)<br>
 Yunpeng Bai, Chao Dong, **Zenghao Chai**, Andong Wang, Zhengzhuo Xu, Chun Yuan.<br>
 European Conference on Computer Vision (**ECCV**), 2022.<br>
+
+* HyP$^2$ Loss: Beyond Hypersphere Metric Space for Multi-label Image Retrieval<br>
+Chengyin Xu\*, **Zenghao Chai**\*, Zhengzhuo Xu, Chun Yuan, Yanbo Fan, Jue Wang.<br> ACM International Conference on Multimedia (**ACMMM**), 2022.<br>
+
 
 * [HHF: Hashing-guided Hinge Function for Deep Hashing Retrieval](https://arxiv.org/abs/2112.02225)<br>
 Chengyin Xu\*, **Zenghao Chai**\*, Zhengzhuo Xu\*, Hongjia Li, Qiruyi Zuo, Lingyu Yang, Chun Yuan.<br>
