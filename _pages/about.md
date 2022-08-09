@@ -91,32 +91,37 @@ I am currently a second-year Master candidate in Electronic Engineering (Compute
 * [REALY: Rethinking the Evaluation of 3D Face Reconstruction](https://arxiv.org/abs/2203.09729)<br>
 **Zenghao Chai**\*, Haoxian Zhang\*, Jing Ren, Di Kang, Zhengzhuo Xu, Xuefei Zhe, Chun Yuan, Linchao Bao.<br>
 European Conference on Computer Vision (**ECCV**), 2022.<br>
+[[Page]](https://www.realy3dface.com/)[[Code]](https://github.com/czh-98/REALY)[[Slides]](../files/ECCV"22_REALY.pdf)<br>
 
 * [Semantic-Sparse Colorization Network for Deep Exemplar-based Colorization](https://arxiv.org/abs/2112.01335)<br>
 Yunpeng Bai, Chao Dong, **Zenghao Chai**, Andong Wang, Zhengzhuo Xu, Chun Yuan.<br>
 European Conference on Computer Vision (**ECCV**), 2022.<br>
+[[Code]](https://github.com/bbaaii/SSC-Net)<br>
+
 
 * HyP$^2$ Loss: Beyond Hypersphere Metric Space for Multi-label Image Retrieval<br>
 Chengyin Xu\*, **Zenghao Chai**\*, Zhengzhuo Xu, Chun Yuan, Yanbo Fan, Jue Wang.<br> ACM International Conference on Multimedia (**ACMMM**), 2022.<br>
-
+[[Code]](https://github.com/JerryXu0129/HyP2-Loss)<br>
 
 * [HHF: Hashing-guided Hinge Function for Deep Hashing Retrieval](https://arxiv.org/abs/2112.02225)<br>
 Chengyin Xu\*, **Zenghao Chai**\*, Zhengzhuo Xu\*, Hongjia Li, Qiruyi Zuo, Lingyu Yang, Chun Yuan.<br>
 arXiv preprint arXiv:2112.02225, 2021.<br>
-
+[[Code]](https://github.com/JerryXu0129/HHF)<br>
 
 * [CMS-LSTM: Context Embedding and Multi-Scale Spatiotemporal Expression LSTM for Predictive Learning](https://arxiv.org/abs/2102.03586)<br>
 **Zenghao Chai**, Zhengzhuo Xu, Yunpeng Bai, Zhihui Lin, Chun Yuan.<br>
 IEEE International Conference on Multimedia and Expo (**ICME**), 2022.<br>
+[[Code]](https://github.com/czh-98/CMS-LSTM)<br>
 
 * [MoDeRNN: Towards Fine-grained Motion Details for Spatiotemporal Predictive Learning](https://arxiv.org/abs/2110.12978)<br>
 **Zenghao Chai**, Zhengzhuo Xu, Chun Yuan.<br>
 IEEE International Conference on Acoustics, Speech and Signal Processing (**ICASSP**), 2022.<br>
+[[Code]](https://github.com/czh-98/MoDeRNN)<br>
 
 * [Towards Calibrated Model for Long-Tailed Visual Recognition from Prior Perspective](https://openreview.net/forum?id=vqzAfN-BoA_)<br>
 Zhengzhuo Xu\*, **Zenghao Chai**\*, Chun Yuan.<br>
 Thirty-Fifth Conference on Neural Information Processing Systems (**NeurIPS**), 2021.<br>
-
+[[Code]](https://github.com/XuZhengzhuo/Prior-LT)<br>
 
 * [Research on Learning Mechanism Designing for Equilibrated Bipolar Spiking Neural Networks](https://link.springer.com/article/10.1007/s10462-020-09818-5)<br>
 Xu Yang, Jiajun Lin, Wenhao Zheng, Jinfeng Zhao, Mengyao Ji, Yunlin Lei, **Zenghao Chai**.<br>
