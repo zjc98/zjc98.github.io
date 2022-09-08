@@ -27,7 +27,7 @@ redirect_from:
 
 
 ## Biography
-I am currently a second-year Master candidate in Electronic Engineering (Computer Technology) at [Tsinghua Shenzhen International Graduate School](https://www.sigs.tsinghua.edu.cn/), [Tsinghua University](https://www.tsinghua.edu.cn/), advised by Prof. [Chun Yuan](https://scholar.google.com/citations?user=fYdxi2sAAAAJ&hl=zh-CN&oi=ao). My research interests are in Computer Vision and Computer Graphics. I received my Bachelor degree in Software Engineering from [School of Computer Science & Technology](https://cs.bit.edu.cn/), [Beijing Institute of Technology](http://www.bit.edu.cn/). 
+I am currently a final year Master candidate in Computer Technology at [Tsinghua Shenzhen International Graduate School](https://www.sigs.tsinghua.edu.cn/), [Tsinghua University](https://www.tsinghua.edu.cn/), advised by Prof. [Chun Yuan](https://scholar.google.com/citations?user=fYdxi2sAAAAJ&hl=zh-CN&oi=ao). My research interests are in Computer Vision and Computer Graphics. I received my Bachelor degree in Software Engineering from [School of Computer Science & Technology](https://cs.bit.edu.cn/), [Beijing Institute of Technology](http://www.bit.edu.cn/). 
 
 
 ## Education
@@ -56,9 +56,9 @@ I am currently a second-year Master candidate in Electronic Engineering (Compute
 <div class="flex-between">
   <ul>
   <li>2022.05 - Present</li>
-  - Research Intern at <a href="https://www.msra.cn/">Microsoft Research Asia</a>, Deep and Reinforcement Learning Group, Machine Learning Area, Beijing, China. <br>
+  - Research Intern at <a href="https://www.msra.cn/">Microsoft Research Asia</a>, Machine Learning Group, Beijing, China. <br>
   - Supervised by <a href="https://www.microsoft.com/en-us/research/people/xuta/">Xu Tan</a>.<br>
-  - Research Topics: Talking Face.
+  - Research Topics: Talking Face Generation, 3D Face Reconstruction.
   </ul>
   <img class="badge2" src="../images/msra.png">
 </div>
@@ -67,9 +67,9 @@ I am currently a second-year Master candidate in Electronic Engineering (Compute
 <div class="flex-between">
   <ul>
   <li>2021.03 - 2022.05</li>
-  - Research Intern at <a href="https://ai.tencent.com/ailab/en/index/">Tencent AI Lab</a>, Virtual Human Group, Shenzhen, China. <br>
+  - Research Intern at <a href="https://ai.tencent.com/ailab/en/index/">Tencent AI Lab</a>, Digital Human Team, Shenzhen, China. <br>
   - Supervised by <a href="http://linchaobao.github.io/">Linchao Bao</a> and Haoxian Zhang.<br>
-  - Research Topics: 3D Face Reconstruction.
+  - Research Topics: 3D Face Reconstruction, 3D Face Modeling & Evaluation.
   </ul>
   <img class="badge2" src="../images/tencent.png">
 </div>
@@ -99,7 +99,7 @@ European Conference on Computer Vision (**ECCV**), 2022.<br>
 [[Code]](https://github.com/bbaaii/SSC-Net)<br>
 
 
-* HyP$^2$ Loss: Beyond Hypersphere Metric Space for Multi-label Image Retrieval<br>
+* [HyP$^2$ Loss: Beyond Hypersphere Metric Space for Multi-label Image Retrieval](https://arxiv.org/abs/2208.06866)<br>
 Chengyin Xu\*, **Zenghao Chai**\*, Zhengzhuo Xu, Chun Yuan, Yanbo Fan, Jue Wang.<br> ACM International Conference on Multimedia (**ACMMM**), 2022.<br>
 [[Code]](https://github.com/JerryXu0129/HyP2-Loss)<br>
 
@@ -135,7 +135,7 @@ Xu Yang, Jiajun Lin, Wenhao Zheng, Jinfeng Zhao, Mengyao Ji, Yunlin Lei, **Zengh
 Hu He, Yingjie Shang, Xu Yang, Yingze Di, Jiajun Lin, Yimeng Zhu, Wenhao Zheng, Jinfeng Zhao, Mengyao Ji, Liya Dong, Ning Deng, Yunlin Lei, **Zenghao Chai**.<br>
 **Frontiers in neuroscience**, 2019.<br>
 
-* [Amazons Evaluation Optimization Strategy Based on PSO Algorithm](https://ieeexplore.ieee.org/abstract/document/8832447).<br>
+* [Amazons Evaluation Optimization Strategy Based on PSO Algorithm](https://ieeexplore.ieee.org/abstract/document/8832447)<br>
 **Zenghao Chai**, Zhiyuan Fang, Jie Zhu.<br>
 Chinese Control And Decision Conference (**CCDC**), 2019.<br>
 
@@ -143,7 +143,7 @@ Chinese Control And Decision Conference (**CCDC**), 2019.<br>
 
 
 ## Patents
-* Chun Yuan, **Zenghao Chai**, Zhengzhuo Xu. A Lightweight Fine-grained Spatiotemporal Predictive Method and System". Invention patent. Published Application Number: CN114445463A. 2022.
+* Chun Yuan, **Zenghao Chai**, Zhengzhuo Xu. A Lightweight Fine-grained Spatiotemporal Predictive Method and System. Invention patent. Published Application Number: CN114445463A. 2022.
 
 * Chongyang Shi, Zhaohe Liao, **Zenghao Chai**. A Move Generation Method for *Game of the Amazons* Based on Deep Convolutional Neural Network. Invention patent. Authorization Announcement Number: CN111330255B. 2020. 
 
@@ -153,7 +153,7 @@ Chinese Control And Decision Conference (**CCDC**), 2019.<br>
 * Ping An AI BANK Scholarship (**<font color='red'>TOP 5%</font>**), 2021.09.
 * Beijing Outstanding Graduate (**<font color='red'>TOP 5%</font>**), 2020.07.
 * Beijing Institute of Technology Outstanding Graduate (**<font color='red'>TOP 5%</font>**), 2020.07.
-* Xu Teli Scholarship (**<font color='red'>TOP 0.07%, best honor for undergraduates</font>**), 2020.06.
+* Xu Teli Scholarship (**<font color='red'>TOP 0.1%, best honor for undergraduates</font>**), 2020.06.
 * Beijing Merit Student (**<font color='red'>TOP 1%</font>**), 2020.05.
 <!-- * Second Prize of Beijing Institute of Technology Competition Scholarship, 2019.09 -->
 <!-- * First Prize Scholarship of Beijing Institute of Technology (<font color='red'>TOP 5%</font>), 2020.09 -->
