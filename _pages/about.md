@@ -143,6 +143,12 @@ Chinese Control And Decision Conference (**CCDC**), 2019.<br>
 
 
 ## Patents
+
+
++ Chengyin Xu, **Zenghao Chai**, Zhengzhuo Xu, Yanbo Fan.
+A Retrieval Method and Apparatus, Device, and Storage Medium. Invention patent. Published Application Number: CN115146143A. 2022.
+
+
 * Chun Yuan, **Zenghao Chai**, Zhengzhuo Xu. A Lightweight Fine-grained Spatiotemporal Predictive Method and System. Invention patent. Published Application Number: CN114445463A. 2022.
 
 * Chongyang Shi, Zhaohe Liao, **Zenghao Chai**. A Move Generation Method for *Game of the Amazons* Based on Deep Convolutional Neural Network. Invention patent. Authorization Announcement Number: CN111330255B. 2020. 
