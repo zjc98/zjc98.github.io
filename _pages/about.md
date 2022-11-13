@@ -88,6 +88,11 @@ I am currently a final year Master candidate in Computer Technology at [Tsinghua
 ## Publications and Preprints
 \'\*\' indicates equal contributions.
 
+* [HHF: Hashing-guided Hinge Function for Deep Hashing Retrieval](https://arxiv.org/abs/2112.02225)<br>
+Chengyin Xu\*, **Zenghao Chai**\*, Zhengzhuo Xu\*, Hongjia Li, Qiruyi Zuo, Lingyu Yang, Chun Yuan.<br>
+IEEE Transactions on Multimedia (**TMM**), 2022.<br>
+[[Code]](https://github.com/JerryXu0129/HHF)<br>
+
 * [REALY: Rethinking the Evaluation of 3D Face Reconstruction](https://arxiv.org/abs/2203.09729)<br>
 **Zenghao Chai**\*, Haoxian Zhang\*, Jing Ren, Di Kang, Zhengzhuo Xu, Xuefei Zhe, Chun Yuan, Linchao Bao.<br>
 European Conference on Computer Vision (**ECCV**), 2022.<br>
@@ -103,10 +108,6 @@ European Conference on Computer Vision (**ECCV**), 2022.<br>
 Chengyin Xu\*, **Zenghao Chai**\*, Zhengzhuo Xu, Chun Yuan, Yanbo Fan, Jue Wang.<br> ACM International Conference on Multimedia (**ACMMM**), 2022.<br>
 [[Code]](https://github.com/JerryXu0129/HyP2-Loss)<br>
 
-* [HHF: Hashing-guided Hinge Function for Deep Hashing Retrieval](https://arxiv.org/abs/2112.02225)<br>
-Chengyin Xu\*, **Zenghao Chai**\*, Zhengzhuo Xu\*, Hongjia Li, Qiruyi Zuo, Lingyu Yang, Chun Yuan.<br>
-arXiv preprint arXiv:2112.02225, 2021.<br>
-[[Code]](https://github.com/JerryXu0129/HHF)<br>
 
 * [CMS-LSTM: Context Embedding and Multi-Scale Spatiotemporal Expression LSTM for Predictive Learning](https://arxiv.org/abs/2102.03586)<br>
 **Zenghao Chai**, Zhengzhuo Xu, Yunpeng Bai, Zhihui Lin, Chun Yuan.<br>
@@ -156,6 +157,7 @@ A Retrieval Method and Apparatus, Device, and Storage Medium. Invention patent. 
 
 
 ## Awards and Honors
+* Ministry of Education National Scholarship for Postgraduates (**<font color='red'>TOP 1%</font>**), 2022. 11.
 * Ping An AI BANK Scholarship (**<font color='red'>TOP 5%</font>**), 2021.09.
 * Beijing Outstanding Graduate (**<font color='red'>TOP 5%</font>**), 2020.07.
 * Beijing Institute of Technology Outstanding Graduate (**<font color='red'>TOP 5%</font>**), 2020.07.
@@ -172,7 +174,7 @@ A Retrieval Method and Apparatus, Device, and Storage Medium. Invention patent. 
 * Ministry of Industry and Information Technology Innovation Scholarship (**<font color='red'>TOP 1%</font>**), 2019.04.
 <!-- * First Prize Scholarship of Beijing Institute of Technology (<font color='red'>TOP 5%</font>), 2019.03 -->
 * **<font color='red'>Gold Medal</font>** of International Genetically Engineered Machine competition (IGEM), 2018.12.
-* Ministry of Education National Scholarship (**<font color='red'>TOP 1%, 2 times</font>**), 2018-2019.
+* Ministry of Education National Scholarship for Undergraduates (**<font color='red'>TOP 1%, 2 times</font>**), 2018-2019.
 <!-- * First Prize Scholarship of Beijing Institute of Technology (<font color='red'>TOP 5%</font>), 2018.09 -->
 * **<font color='red'>Second Prize</font>** of University Computer Games Championship & National Computer Games Tournament, 2018.08.
 <!-- * First Prize Scholarship of Beijing Institute of Technology (<font color='red'>TOP 5%</font>), 2018.03 -->
