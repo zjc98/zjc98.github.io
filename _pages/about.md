@@ -88,6 +88,19 @@ I am currently a final year Master candidate in Computer Technology at [Tsinghua
 ## Publications and Preprints
 \'\*\' indicates equal contributions.
 
+* [Searching Transferable Mixed-Precision Quantization Policy through Large Margin Regularization](https://arxiv.org/abs/2302.06845)<br>
+Chen Tang, Kai Ouyang, **Zenghao Chai**, Yunpeng Bai, Zhi Wang<br>
+arXiv, 2023.<br>
+
+* [ERA-Solver: Error-Robust Adams Solver for Fast Sampling of Diffusion Probabilistic Models](https://arxiv.org/abs/2301.12935)<br>
+Shengmeng Li, Luping Liu, **Zenghao Chai**, Runnan Li, Xu Tan<br>
+arXiv, 2023.<br>
+
+* [Learning Imbalanced Data with Vision Transformers](https://arxiv.org/abs/2212.02015)<br>
+Zhengzhuo Xu, Ruikang Liu, Shuo Yang, **Zenghao Chai**, Chun Yuan<br>
+IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), 2023.<br>
+[[Code]](https://github.com/XuZhengzhuo/LiVT)<br>
+
 * [HHF: Hashing-guided Hinge Function for Deep Hashing Retrieval](https://arxiv.org/abs/2112.02225)<br>
 Chengyin Xu\*, **Zenghao Chai**\*, Zhengzhuo Xu\*, Hongjia Li, Qiruyi Zuo, Lingyu Yang, Chun Yuan.<br>
 IEEE Transactions on Multimedia (**TMM**), 2022.<br>
@@ -96,12 +109,12 @@ IEEE Transactions on Multimedia (**TMM**), 2022.<br>
 * [REALY: Rethinking the Evaluation of 3D Face Reconstruction](https://arxiv.org/abs/2203.09729)<br>
 **Zenghao Chai**\*, Haoxian Zhang\*, Jing Ren, Di Kang, Zhengzhuo Xu, Xuefei Zhe, Chun Yuan, Linchao Bao.<br>
 European Conference on Computer Vision (**ECCV**), 2022.<br>
-[[Page]](https://www.realy3dface.com/)[[Code]](https://github.com/czh-98/REALY)[[Slides]](../files/ECCV"22_REALY.pdf)<br>
+[[Page]](https://www.realy3dface.com/)[[Code]](https://github.com/czh-98/REALY)[[Poster]](https://drive.google.com/file/d/1jSeM5daC68_JMinZdLjwoOdtvAQlITnH/view?usp=sharing)<br>
 
 * [Semantic-Sparse Colorization Network for Deep Exemplar-based Colorization](https://arxiv.org/abs/2112.01335)<br>
 Yunpeng Bai, Chao Dong, **Zenghao Chai**, Andong Wang, Zhengzhuo Xu, Chun Yuan.<br>
 European Conference on Computer Vision (**ECCV**), 2022.<br>
-[[Code]](https://github.com/bbaaii/SSC-Net)<br>
+[[Code]](https://github.com/bbaaii/SSC-Net)[[Poster]](https://drive.google.com/file/d/1c-blvMpsmB0897gJP_XYznOeQC9Juxs1/view?usp=sharing)<br>
 
 
 * [HyP$^2$ Loss: Beyond Hypersphere Metric Space for Multi-label Image Retrieval](https://arxiv.org/abs/2208.06866)<br>
@@ -157,7 +170,7 @@ A Retrieval Method and Apparatus, Device, and Storage Medium. Invention patent. 
 
 
 ## Awards and Honors
-* Ministry of Education National Scholarship for Postgraduates (**<font color='red'>TOP 1%</font>**), 2022. 11.
+* Ministry of Education National Scholarship for Postgraduates (**<font color='red'>TOP 1%</font>**), 2022.11.
 * Ping An AI BANK Scholarship (**<font color='red'>TOP 5%</font>**), 2021.09.
 * Beijing Outstanding Graduate (**<font color='red'>TOP 5%</font>**), 2020.07.
 * Beijing Institute of Technology Outstanding Graduate (**<font color='red'>TOP 5%</font>**), 2020.07.
