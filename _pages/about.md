@@ -55,7 +55,7 @@ I am currently a final year Master candidate in Computer Technology at [Tsinghua
 ## Work Experience
 <div class="flex-between">
   <ul>
-  <li>2022.05 - Present</li>
+  <li>2022.05 - 2023.03</li>
   - Research Intern at <a href="https://www.msra.cn/">Microsoft Research Asia</a>, Machine Learning Group, Beijing, China. <br>
   - Supervised by <a href="https://www.microsoft.com/en-us/research/people/xuta/">Xu Tan</a>.<br>
   - Research Topics: Talking Face Generation, 3D Face Reconstruction.
@@ -87,6 +87,11 @@ I am currently a final year Master candidate in Computer Technology at [Tsinghua
 
 ## Publications and Preprints
 \'\*\' indicates equal contributions.
+
+* [HiFace: High-Fidelity 3D Face Reconstruction by Learning Static and Dynamic Details](https://arxiv.org/abs/2303.11225)<br>
+**Zenghao Chai**, Tianke Zhang, Tianyu He, Xu Tan, Tadas Baltru&scaron;aitis, HsiangTao Wu, Runnan Li, Sheng Zhao, Chun Yuan, Jiang Bian<br>
+arXiv, 2023.<br>
+[[Page]](https://project-hiface.github.io/)<br>
 
 * [Searching Transferable Mixed-Precision Quantization Policy through Large Margin Regularization](https://arxiv.org/abs/2302.06845)<br>
 Chen Tang, Kai Ouyang, **Zenghao Chai**, Yunpeng Bai, Zhi Wang<br>
