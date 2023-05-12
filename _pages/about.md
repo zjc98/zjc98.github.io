@@ -57,7 +57,7 @@ I am currently a final year Master candidate in Computer Technology at [Tsinghua
   <ul>
   <li>2022.05 - 2023.03</li>
   - Research Intern at <a href="https://www.msra.cn/">Microsoft Research Asia</a>, Machine Learning Group, Beijing, China. <br>
-  - Supervised by <a href="https://www.microsoft.com/en-us/research/people/xuta/">Xu Tan</a>.<br>
+  - Supervised by <a href="https://www.microsoft.com/en-us/research/people/xuta/">Xu Tan</a> and <a href="https://www.microsoft.com/en-us/research/people/tianyuhe/">Tianyu He</a>.<br>
   - Research Topics: Talking Face Generation, 3D Face Reconstruction.
   </ul>
   <img class="badge2" src="../images/msra.png">
@@ -87,6 +87,11 @@ I am currently a final year Master candidate in Computer Technology at [Tsinghua
 
 ## Publications and Preprints
 \'\*\' indicates equal contributions.
+
+* [Towards Effective Collaborative Learning in Long-Tailed Recognition](https://arxiv.org/abs/2305.03378)<br>
+Zhengzhuo Xu\*, **Zenghao Chai**\*, Chengyin Xu, Chun Yuan, Haiqin Yang<br>
+arXiv, 2023.<br>
+
 
 * [HiFace: High-Fidelity 3D Face Reconstruction by Learning Static and Dynamic Details](https://arxiv.org/abs/2303.11225)<br>
 **Zenghao Chai**, Tianke Zhang, Tianyu He, Xu Tan, Tadas Baltru&scaron;aitis, HsiangTao Wu, Runnan Li, Sheng Zhao, Chun Yuan, Jiang Bian<br>
