@@ -11,8 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.E. in Beijing Institute of Technology, China, 2016-2020
-* M.E. in Tsinghua University, China, 2020-2023 (expected)
+* B.E. in Beijing Institute of Technology, CN, 2016-2020
+* M.E. in Tsinghua University, CN, 2020-2023 
+* Ph.D. in National University of Singapore, SG, 2023-2027 (expected)
 <!-- * Ph.D in Version Control Theory, GitHub University, 2018 (expected) -->
 
 Work experience

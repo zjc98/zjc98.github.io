@@ -8,7 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-
 <style>
   .flex-between {
     display: flex;
@@ -17,24 +16,58 @@ redirect_from:
   }
   .badge {
     width: 70px;
-    /* height: 50px; */
+    height: 70px;
   }
   .badge2 {
     width: 100px;
     /* height: 50px; */
   }
+  .badge3 {
+    width: 70px;
+    /* height: 70px; */
+  }
+  .badge4 {
+    width: 75px;
+    /* height: 70px; */
+  }
+  .click_button {
+    padding: 2px 8px;
+    border: 1px solid #d9d9d9;
+    border-radius: 5px;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    color: black;
+    text-decoration: none !important;
+    font-size: 14px;
+  }
+  .click_button > img {
+    display: block;
+    width: 16px;
+    height: 16px;
+    margin-right: 4px;
+  }
 </style>
 
-
 ## Biography
-I am currently a final year Master candidate in Computer Technology at [Tsinghua Shenzhen International Graduate School](https://www.sigs.tsinghua.edu.cn/), [Tsinghua University](https://www.tsinghua.edu.cn/), advised by Prof. [Chun Yuan](https://scholar.google.com/citations?user=fYdxi2sAAAAJ&hl=zh-CN&oi=ao). My research interests are in Computer Vision and Computer Graphics. I received my Bachelor degree in Software Engineering from [School of Computer Science & Technology](https://cs.bit.edu.cn/), [Beijing Institute of Technology](http://www.bit.edu.cn/). 
+I am an incoming Ph.D. student in Computer Science at [School of Computing](https://www.comp.nus.edu.sg/), [National University of Singapore](https://nus.edu.sg/), fully supported by President's Graduate Fellowship. Recently, I received my Master degree in Computer Technology at [Tsinghua Shenzhen International Graduate School](https://www.sigs.tsinghua.edu.cn/en/), [Tsinghua University](https://www.tsinghua.edu.cn/en/), supervised by Prof. [Chun Yuan](https://www.sigs.tsinghua.edu.cn/yc2_en/main.htm). My research interests are in Computer Vision and Computer Graphics. Before that, I received my Bachelor degree in Software Engineering from [School of Computer Science & Technology](https://cs.bit.edu.cn), [Beijing Institute of Technology](https://english.bit.edu.cn/). 
 
+Click [here](../files/Zenghao_Chai_CV.pdf) to find my up-to-date CV.
 
 ## Education
 <div class="flex-between">
   <ul>
-  <li>2020.09 - Present</li>
-  - Master Candidate at <a href="https://www.sigs.tsinghua.edu.cn/">Tsinghua Shenzhen International Graduate School</a>, <a href="https://www.tsinghua.edu.cn/">Tsinghua University</a>, supervised by <i>Prof</i>. <a href="https://www.sigs.tsinghua.edu.cn/yc2/main.htm">Chun Yuan</a>.<br>
+  <li>2023.08 - 2027.07 (Expected)</li>
+  - Ph.D. Candidate in Computer Science at <a href="https://www.comp.nus.edu.sg/">School of Computing</a>, <a href="https://nus.edu.sg/">National University of Singapore</a>.<br>
+  - Research Topics: Computer Vision, Computer Graphics, Multimedia, Machine Learning.
+  </ul>
+  <img class="badge3" src="../images/nus.png">
+</div>
+
+<div class="flex-between">
+  <ul>
+  <li>2020.09 - 2023.07</li>
+  - Master in Computer Technology at <a href="https://www.sigs.tsinghua.edu.cn/en/">Tsinghua Shenzhen International Graduate School</a>, <a href="https://www.tsinghua.edu.cn/en/">Tsinghua University</a>, supervised by <i>Prof</i>. <a href="https://www.sigs.tsinghua.edu.cn/yc2_en/main.htm">Chun Yuan</a>.<br>
   - GPA: <b>3.74</b>/4.00<br>
   - Research Topics: Computer Vision, Computer Graphics, Machine Learning.
   </ul>
@@ -45,10 +78,10 @@ I am currently a final year Master candidate in Computer Technology at [Tsinghua
 <div class="flex-between">
   <ul>
   <li>2016.09 - 2020.07</li>
-  - Bachelor of Software Engineering in <a href="https://cs.bit.edu.cn/">School of Computer Science & Technology</a>, <a href="http://www.bit.edu.cn/">Beijing Institute of Technology</a>. <br>
+  - Bachelor in Software Engineering at <a href="https://cs.bit.edu.cn/">School of Computer Science & Technology</a>, <a href="https://english.bit.edu.cn/">Beijing Institute of Technology</a>. <br>
   - GPA: <b>90.97</b>/100 (Top 1%)
   </ul>
-  <img class="badge" src="../images/bit.png">
+  <img class="badge4" src="../images/bit.png">
 </div>
 
 
@@ -88,80 +121,122 @@ I am currently a final year Master candidate in Computer Technology at [Tsinghua
 ## Publications and Preprints
 \'\*\' indicates equal contributions.
 
-* [Towards Effective Collaborative Learning in Long-Tailed Recognition](https://arxiv.org/abs/2305.03378)<br>
-Zhengzhuo Xu\*, **Zenghao Chai**\*, Chengyin Xu, Chun Yuan, Haiqin Yang<br>
+* **<u>Towards Effective Collaborative Learning in Long-Tailed Recognition</u>**<br>
+Zhengzhuo Xu\*, **<u>Zenghao Chai</u>**\*, Chengyin Xu, Chun Yuan, Haiqin Yang<br>
 arXiv, 2023.<br>
+<a href="https://arxiv.org/abs/2305.03378" class="click_button"><img src="../images/icon/arxiv.png">arXiv</a>
 
-
-* [HiFace: High-Fidelity 3D Face Reconstruction by Learning Static and Dynamic Details](https://arxiv.org/abs/2303.11225)<br>
-**Zenghao Chai**, Tianke Zhang, Tianyu He, Xu Tan, Tadas Baltru&scaron;aitis, HsiangTao Wu, Runnan Li, Sheng Zhao, Chun Yuan, Jiang Bian<br>
+* **<u>HiFace: High-Fidelity 3D Face Reconstruction by Learning Static and Dynamic Details</u>**<br>
+**<u>Zenghao Chai</u>**, Tianke Zhang, Tianyu He, Xu Tan, Tadas Baltru&scaron;aitis, HsiangTao Wu, Runnan Li, Sheng Zhao, Chun Yuan, Jiang Bian<br>
 arXiv, 2023.<br>
-[[Page]](https://project-hiface.github.io/)<br>
+<a href="https://arxiv.org/abs/2303.11225" class="click_button"><img src="../images/icon/arxiv.png">arXiv</a>
+<a href="https://project-hiface.github.io/" class="click_button"><img src="../images/icon/page.png">Page</a>
 
-* [Searching Transferable Mixed-Precision Quantization Policy through Large Margin Regularization](https://arxiv.org/abs/2302.06845)<br>
-Chen Tang, Kai Ouyang, **Zenghao Chai**, Yunpeng Bai, Zhi Wang<br>
+* **<u>Searching Transferable Mixed-Precision Quantization Policy through Large Margin Regularization</u>**<br>
+Chen Tang, Kai Ouyang, **<u>Zenghao Chai</u>**, Yunpeng Bai, Zhi Wang<br>
 arXiv, 2023.<br>
+<a href="https://arxiv.org/abs/2302.06845" class="click_button"><img src="../images/icon/arxiv.png">arXiv</a>
 
-* [ERA-Solver: Error-Robust Adams Solver for Fast Sampling of Diffusion Probabilistic Models](https://arxiv.org/abs/2301.12935)<br>
-Shengmeng Li, Luping Liu, **Zenghao Chai**, Runnan Li, Xu Tan<br>
+* **<u>ERA-Solver: Error-Robust Adams Solver for Fast Sampling of Diffusion Probabilistic Models</u>**<br>
+Shengmeng Li, Luping Liu, **<u>Zenghao Chai</u>**, Runnan Li, Xu Tan<br>
 arXiv, 2023.<br>
+<a href="https://arxiv.org/abs/2301.12935" class="click_button"><img src="../images/icon/arxiv.png">arXiv</a>
 
-* [Learning Imbalanced Data with Vision Transformers](https://arxiv.org/abs/2212.02015)<br>
-Zhengzhuo Xu, Ruikang Liu, Shuo Yang, **Zenghao Chai**, Chun Yuan<br>
+* **<u>Learning Imbalanced Data with Vision Transformers</u>**<br>
+Zhengzhuo Xu, Ruikang Liu, Shuo Yang, **<u>Zenghao Chai</u>**, Chun Yuan<br>
 IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), 2023.<br>
-[[Code]](https://github.com/XuZhengzhuo/LiVT)<br>
+<a href="https://arxiv.org/abs/2212.02015" class="click_button"><img src="../images/icon/arxiv.png">arXiv</a>
+<a href="https://github.com/XuZhengzhuo/LiVT" class="click_button"><img src="../images/icon/code.png">Code</a> 
+<a href="https://openaccess.thecvf.com/content/CVPR2023/papers/Xu_Learning_Imbalanced_Data_With_Vision_Transformers_CVPR_2023_paper.pdf" class="click_button"><img src="../images/icon/pdf.png">PDF</a>
+<a href="https://openaccess.thecvf.com/content/CVPR2023/supplemental/Xu_Learning_Imbalanced_Data_CVPR_2023_supplemental.pdf" class="click_button"><img src="../images/icon/supp.png">Supplementary</a>
+<a href="https://cvpr2023.thecvf.com/media/PosterPDFs/CVPR%202023/22904.png?t=1683529433.022824" class="click_button"><img src="../images/icon/poster.png">Poster</a>
 
-* [HHF: Hashing-guided Hinge Function for Deep Hashing Retrieval](https://arxiv.org/abs/2112.02225)<br>
-Chengyin Xu\*, **Zenghao Chai**\*, Zhengzhuo Xu\*, Hongjia Li, Qiruyi Zuo, Lingyu Yang, Chun Yuan.<br>
+
+* **<u>HHF: Hashing-guided Hinge Function for Deep Hashing Retrieval</u>**<br>
+Chengyin Xu\*, **<u>Zenghao Chai</u>**\*, Zhengzhuo Xu\*, Hongjia Li, Qiruyi Zuo, Lingyu Yang, Chun Yuan.<br>
 IEEE Transactions on Multimedia (**TMM**), 2022.<br>
-[[Code]](https://github.com/JerryXu0129/HHF)<br>
+<a href="https://arxiv.org/abs/2112.02225" class="click_button"><img src="../images/icon/arxiv.png">arXiv</a>
+<a href="https://github.com/JerryXu0129/HHF" class="click_button"><img src="../images/icon/code.png">Code</a>
+<a href="https://ieeexplore.ieee.org/document/9953581" class="click_button"><img src="../images/icon/ieee.jpeg">IEEE</a>
 
-* [REALY: Rethinking the Evaluation of 3D Face Reconstruction](https://arxiv.org/abs/2203.09729)<br>
-**Zenghao Chai**\*, Haoxian Zhang\*, Jing Ren, Di Kang, Zhengzhuo Xu, Xuefei Zhe, Chun Yuan, Linchao Bao.<br>
+
+* **<u>REALY: Rethinking the Evaluation of 3D Face Reconstruction</u>**<br>
+**<u>Zenghao Chai</u>**\*, Haoxian Zhang\*, Jing Ren, Di Kang, Zhengzhuo Xu, Xuefei Zhe, Chun Yuan, Linchao Bao.<br>
 European Conference on Computer Vision (**ECCV**), 2022.<br>
-[[Page]](https://www.realy3dface.com/)[[Code]](https://github.com/czh-98/REALY)[[Poster]](https://drive.google.com/file/d/1jSeM5daC68_JMinZdLjwoOdtvAQlITnH/view?usp=sharing)<br>
+<a href="https://arxiv.org/abs/2203.09729" class="click_button"><img src="../images/icon/arxiv.png">arXiv</a>
+<a href="https://www.realy3dface.com/" class="click_button"><img src="../images/icon/page.png">Page</a>
+<a href="https://github.com/czh-98/REALY" class="click_button"><img src="../images/icon/code.png">Code</a>
+<a href="https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136680072.pdf" class="click_button"><img src="../images/icon/pdf.png">PDF</a>
+<a href="https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136680072-supp.pdf" class="click_button"><img src="../images/icon/supp.png">Supplementary</a>
+<a href="https://drive.google.com/file/d/1jSeM5daC68_JMinZdLjwoOdtvAQlITnH/view?usp=sharing" class="click_button"><img src="../images/icon/poster.png">Poster</a>
 
-* [Semantic-Sparse Colorization Network for Deep Exemplar-based Colorization](https://arxiv.org/abs/2112.01335)<br>
-Yunpeng Bai, Chao Dong, **Zenghao Chai**, Andong Wang, Zhengzhuo Xu, Chun Yuan.<br>
+
+* **<u>Semantic-Sparse Colorization Network for Deep Exemplar-based Colorization</u><br>
+Yunpeng Bai, Chao Dong, **<u>Zenghao Chai</u>**, Andong Wang, Zhengzhuo Xu, Chun Yuan.<br>
 European Conference on Computer Vision (**ECCV**), 2022.<br>
-[[Code]](https://github.com/bbaaii/SSC-Net)[[Poster]](https://drive.google.com/file/d/1c-blvMpsmB0897gJP_XYznOeQC9Juxs1/view?usp=sharing)<br>
+<a href="https://arxiv.org/abs/2112.01335" class="click_button"><img src="../images/icon/arxiv.png">arXiv</a>
+<a href="https://github.com/bbaaii/SSC-Net" class="click_button"><img src="../images/icon/code.png">Code</a>
+<a href="https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136660495.pdf" class="click_button"><img src="../images/icon/pdf.png">PDF</a>
+<a href="https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136660495-supp.pdf" class="click_button"><img src="../images/icon/supp.png">Supplementary</a>
+<a href="https://drive.google.com/file/d/1c-blvMpsmB0897gJP_XYznOeQC9Juxs1/view?usp=sharing" class="click_button"><img src="../images/icon/poster.png">Poster</a>
 
 
-* [HyP$^2$ Loss: Beyond Hypersphere Metric Space for Multi-label Image Retrieval](https://arxiv.org/abs/2208.06866)<br>
-Chengyin Xu\*, **Zenghao Chai**\*, Zhengzhuo Xu, Chun Yuan, Yanbo Fan, Jue Wang.<br> ACM International Conference on Multimedia (**ACMMM**), 2022.<br>
-[[Code]](https://github.com/JerryXu0129/HyP2-Loss)<br>
+* **<u>HyP$^2$ Loss: Beyond Hypersphere Metric Space for Multi-label Image Retrieval</u>**
+Chengyin Xu\*, **<u>Zenghao Chai</u>**\*, Zhengzhuo Xu, Chun Yuan, Yanbo Fan, Jue Wang.<br> ACM International Conference on Multimedia (**ACM MM**), 2022.<br>
+<a href="https://arxiv.org/abs/2208.06866" class="click_button"><img src="../images/icon/arxiv.png">arXiv</a>
+<a href="https://github.com/JerryXu0129/HyP2-Loss/" class="click_button"><img src="../images/icon/code.png">Code</a>
+<a href="https://dl.acm.org/doi/pdf/10.1145/3503161.3548032" class="click_button"><img src="../images/icon/pdf.png">PDF</a>
+<a href="https://dl.acm.org/doi/pdf/10.1145/3503161.3548032" class="click_button"><img src="../images/icon/supp.png">Supplementary</a>
 
 
-* [CMS-LSTM: Context Embedding and Multi-Scale Spatiotemporal Expression LSTM for Predictive Learning](https://arxiv.org/abs/2102.03586)<br>
-**Zenghao Chai**, Zhengzhuo Xu, Yunpeng Bai, Zhihui Lin, Chun Yuan.<br>
+* **<u>CMS-LSTM: Context Embedding and Multi-Scale Spatiotemporal Expression LSTM for Predictive Learning</u>**<br>
+**<u>Zenghao Chai</u>**, Zhengzhuo Xu, Yunpeng Bai, Zhihui Lin, Chun Yuan.<br>
 IEEE International Conference on Multimedia and Expo (**ICME**), 2022.<br>
-[[Code]](https://github.com/czh-98/CMS-LSTM)<br>
+<a href="https://arxiv.org/abs/2102.03586" class="click_button"><img src="../images/icon/arxiv.png">arXiv</a>
+<a href="https://github.com/czh-98/CMS-LSTM" class="click_button"><img src="../images/icon/code.png">Code</a>
+<a href="https://ieeexplore.ieee.org/document/9859659" class="click_button"><img src="../images/icon/ieee.jpeg">IEEE</a>
 
-* [MoDeRNN: Towards Fine-grained Motion Details for Spatiotemporal Predictive Learning](https://arxiv.org/abs/2110.12978)<br>
-**Zenghao Chai**, Zhengzhuo Xu, Chun Yuan.<br>
+
+* **<u>MoDeRNN: Towards Fine-grained Motion Details for Spatiotemporal Predictive Learning</u>**<br>
+**<u>Zenghao Chai</u>**, Zhengzhuo Xu, Chun Yuan.<br>
 IEEE International Conference on Acoustics, Speech and Signal Processing (**ICASSP**), 2022.<br>
-[[Code]](https://github.com/czh-98/MoDeRNN)<br>
+<a href="https://arxiv.org/abs/2110.12978" class="click_button"><img src="../images/icon/arxiv.png">arXiv</a>
+<a href="https://github.com/czh-98/MoDeRNN" class="click_button"><img src="../images/icon/code.png">Code</a>
+<a href="https://ieeexplore.ieee.org/document/9747035" class="click_button"><img src="../images/icon/ieee.jpeg">IEEE</a>
 
-* [Towards Calibrated Model for Long-Tailed Visual Recognition from Prior Perspective](https://openreview.net/forum?id=vqzAfN-BoA_)<br>
-Zhengzhuo Xu\*, **Zenghao Chai**\*, Chun Yuan.<br>
-Thirty-Fifth Conference on Neural Information Processing Systems (**NeurIPS**), 2021.<br>
-[[Code]](https://github.com/XuZhengzhuo/Prior-LT)<br>
 
-* [Research on Learning Mechanism Designing for Equilibrated Bipolar Spiking Neural Networks](https://link.springer.com/article/10.1007/s10462-020-09818-5)<br>
-Xu Yang, Jiajun Lin, Wenhao Zheng, Jinfeng Zhao, Mengyao Ji, Yunlin Lei, **Zenghao Chai**.<br>
+* **<u>Towards Calibrated Model for Long-Tailed Visual Recognition from Prior Perspective</u>**<br>
+Zhengzhuo Xu\*, **<u>Zenghao Chai</u>**\*, Chun Yuan.<br>
+Neural Information Processing Systems (**NeurIPS**), 2021.<br>
+<a href="https://arxiv.org/abs/2111.03874" class="click_button"><img src="../images/icon/arxiv.png">arXiv</a>
+<a href="https://github.com/XuZhengzhuo/Prior-LT" class="click_button"><img src="../images/icon/code.png">Code</a>
+<a href="https://openreview.net/forum?id=vqzAfN-BoA_" class="click_button"><img src="../images/icon/openreview.png">OpenReview</a>
+<a href="https://proceedings.neurips.cc/paper_files/paper/2021/file/39ae2ed11b14a4ccb41d35e9d1ba5d11-Paper.pdf" class="click_button"><img src="../images/icon/pdf.png">PDF</a>
+<a href="https://proceedings.neurips.cc/paper_files/paper/2021/file/39ae2ed11b14a4ccb41d35e9d1ba5d11-Supplemental.pdf" class="click_button"><img src="../images/icon/supp.png">Supplementary</a>
+
+
+* **<u>Research on Learning Mechanism Designing for Equilibrated Bipolar Spiking Neural Networks</u>**<br>
+Xu Yang, Jiajun Lin, Wenhao Zheng, Jinfeng Zhao, Mengyao Ji, Yunlin Lei, **<u>Zenghao Chai</u>**.<br>
 **Artificial Intelligence Review**, 2020.<br>
+<a href="https://link.springer.com/article/10.1007/s10462-020-09818-5" class="click_button"><img src="../images/icon/springer.jpeg">Springer</a>
 
-* [Correlation Analysis-Based Neural Network Self-Organizing Genetic Evolutionary Algorithm](https://ieeexplore.ieee.org/abstract/document/8843933)<br>
-**Zenghao Chai**, Xu Yang, Zhilin Liu, Yunlin Lei, Wenhao Zheng, Mengyao Ji, Jinfeng Zhao.<br>
+
+* **<u>Correlation Analysis-Based Neural Network Self-Organizing Genetic Evolutionary Algorithm</u>**<br>
+**<u>Zenghao Chai</u>**, Xu Yang, Zhilin Liu, Yunlin Lei, Wenhao Zheng, Mengyao Ji, Jinfeng Zhao.<br>
 **IEEE Access**, 2019.<br>
+<a href="https://ieeexplore.ieee.org/abstract/document/8843933" class="click_button"><img src="../images/icon/ieee.jpeg">IEEE</a>
 
-* [Constructing an Associative Memory System Using Spiking Neural Network](https://www.frontiersin.org/articles/10.3389/fnins.2019.00650/full)<br>
-Hu He, Yingjie Shang, Xu Yang, Yingze Di, Jiajun Lin, Yimeng Zhu, Wenhao Zheng, Jinfeng Zhao, Mengyao Ji, Liya Dong, Ning Deng, Yunlin Lei, **Zenghao Chai**.<br>
+
+* **<u>Constructing an Associative Memory System Using Spiking Neural Network</u>**<br>
+Hu He, Yingjie Shang, Xu Yang, Yingze Di, Jiajun Lin, Yimeng Zhu, Wenhao Zheng, Jinfeng Zhao, Mengyao Ji, Liya Dong, Ning Deng, Yunlin Lei, **<u>Zenghao Chai</u>**.<br>
 **Frontiers in neuroscience**, 2019.<br>
+<a href="https://www.frontiersin.org/articles/10.3389/fnins.2019.00650/full" class="click_button"><img src="../images/icon/frontier.ico">Frontiers</a>
 
-* [Amazons Evaluation Optimization Strategy Based on PSO Algorithm](https://ieeexplore.ieee.org/abstract/document/8832447)<br>
-**Zenghao Chai**, Zhiyuan Fang, Jie Zhu.<br>
+* **<u>Amazons Evaluation Optimization Strategy Based on PSO Algorithm</u>**<br>
+**<u>Zenghao Chai</u>**, Zhiyuan Fang, Jie Zhu.<br>
 Chinese Control And Decision Conference (**CCDC**), 2019.<br>
+<a href="https://ieeexplore.ieee.org/abstract/document/8832447" class="click_button"><img src="../images/icon/ieee.jpeg">IEEE</a>
+
 
 
 
@@ -180,31 +255,33 @@ A Retrieval Method and Apparatus, Device, and Storage Medium. Invention patent. 
 
 
 ## Awards and Honors
-* Ministry of Education National Scholarship for Postgraduates (**<font color='red'>TOP 1%</font>**), 2022.11.
-* Ping An AI BANK Scholarship (**<font color='red'>TOP 5%</font>**), 2021.09.
-* Beijing Outstanding Graduate (**<font color='red'>TOP 5%</font>**), 2020.07.
-* Beijing Institute of Technology Outstanding Graduate (**<font color='red'>TOP 5%</font>**), 2020.07.
-* Xu Teli Scholarship (**<font color='red'>TOP 0.1%, best honor for undergraduates</font>**), 2020.06.
-* Beijing Merit Student (**<font color='red'>TOP 1%</font>**), 2020.05.
+* **First Prize** in Internship Award of Tsinghua University (**TOP 1%**), 2023.05.
+* Award of **Excellence** in "Star of Tomorrow" Internship Program of Microsoft Research Asia (**TOP 5%**), 2023.03
+* Ministry of Education National Scholarship for Postgraduates (**TOP 1%**), 2022.11.
+* Ping An AI BANK Fellowship (**TOP 5%**), 2021.09.
+* Beijing Outstanding Graduate (**TOP 5%**), 2020.07.
+* Beijing Institute of Technology Outstanding Graduate (**TOP 5%**), 2020.07.
+* Teli Xu Fellowship (**TOP 0.1%, best honor for undergraduates**), 2020.06.
+* Beijing Merit Student (**TOP 1%**), 2020.05.
 <!-- * Second Prize of Beijing Institute of Technology Competition Scholarship, 2019.09 -->
 <!-- * First Prize Scholarship of Beijing Institute of Technology (<font color='red'>TOP 5%</font>), 2020.09 -->
 <!-- * First Prize Scholarship of Beijing Institute of Technology (<font color='red'>TOP 5%</font>), 2020.03 -->
 <!-- * Ministry of Education National Scholarship (**<font color='red'>TOP 1%</font>**), 2019.10. -->
-* Beijing Institute of Technology Competition Scholarship (**<font color='red'>TOP 5%, 2 times</font>**), 2019-2020.
-* **<font color='red'>Gold Medal</font>** of ICGA Computer Olympiad 2019, 2019.08.
+* Beijing Institute of Technology Competition Scholarship (**TOP 5%, 2 times**), 2019-2020.
+* **Gold Medal** of ICGA Computer Olympiad 2019, 2019.08.
 <!-- * First Prize Scholarship of Beijing Institute of Technology (<font color='red'>TOP 5%</font>), 2019.09 -->
-* **<font color='red'>Meritorious Winner</font>** of MCM/ICM Contest in Modeling, 2019.04.
-* Ministry of Industry and Information Technology Innovation Scholarship (**<font color='red'>TOP 1%</font>**), 2019.04.
+* **Meritorious Winner** of MCM/ICM Contest in Modeling, 2019.04.
+* Ministry of Industry and Information Technology Innovation Scholarship (**TOP 1%**), 2019.04.
 <!-- * First Prize Scholarship of Beijing Institute of Technology (<font color='red'>TOP 5%</font>), 2019.03 -->
-* **<font color='red'>Gold Medal</font>** of International Genetically Engineered Machine competition (IGEM), 2018.12.
-* Ministry of Education National Scholarship for Undergraduates (**<font color='red'>TOP 1%, 2 times</font>**), 2018-2019.
+* **Gold Medal** of International Genetically Engineered Machine competition (IGEM), 2018.12.
+* Ministry of Education National Scholarship for Undergraduates (**TOP 1%, 2 times**), 2018-2019.
 <!-- * First Prize Scholarship of Beijing Institute of Technology (<font color='red'>TOP 5%</font>), 2018.09 -->
-* **<font color='red'>Second Prize</font>** of University Computer Games Championship & National Computer Games Tournament, 2018.08.
+* **Second Prize** of University Computer Games Championship & National Computer Games Tournament, 2018.08.
 <!-- * First Prize Scholarship of Beijing Institute of Technology (<font color='red'>TOP 5%</font>), 2018.03 -->
-* **<font color='red'>Third Prize</font>** of Beijing Physics Competition, 2017.11.
-* **<font color='red'>First Prize</font>** of China Mathematics Competition, 2017.10.
-* **<font color='red'>First Prize</font>** of Beijing Mathematics Competition, 2017.10.
-* JJWorld Scholarship (**<font color='red'>TOP 5%</font>**), 2017.09.
-* First Prize Scholarship of Beijing Institute of Technology (**<font color='red'>TOP 5%, 6 times</font>**), 2017-2020.
+* **Third Prize** of Beijing Physics Competition, 2017.11.
+* **First Prize** of China Mathematics Competition, 2017.10.
+* **First Prize** of Beijing Mathematics Competition, 2017.10.
+* JJWorld Fellowship (**TOP 5%**), 2017.09.
+* First Prize Scholarship of Beijing Institute of Technology (**TOP 5%, 6 times**), 2017-2020.
 <!-- * Second Prize Scholarship of Beijing Institute of Technology (Top 15%), 2017.03 -->
 

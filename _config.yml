@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "ZENGHAO CHAI"
   avatar           : "profile.png"
-  bio              : "M.E. Candidate"
+  bio              : "Master"
   location         : "Tsinghua University, China"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=0n4SuDUAAAAJ&hl=zh-CN"
+  googlescholar    : "https://scholar.google.com/citations?user=0n4SuDUAAAAJ"
   email            :  "zenghaochai@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
