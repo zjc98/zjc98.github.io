@@ -23,7 +23,7 @@ redirect_from:
     /* height: 50px; */
   }
   .badge3 {
-    width: 70px;
+    width: 65px;
     /* height: 70px; */
   }
   .badge4 {
@@ -256,7 +256,7 @@ A Retrieval Method and Apparatus, Device, and Storage Medium. Invention patent. 
 
 ## Awards and Honors
 * **First Prize** in Internship Award of Tsinghua University (**TOP 1%**), 2023.05.
-* Award of **Excellence** in "Star of Tomorrow" Internship Program of Microsoft Research Asia (**TOP 5%**), 2023.03
+* Award of **Excellence** in "Stars of Tomorrow" Internship Program of Microsoft Research Asia (**TOP 5%**), 2023.03.
 * Ministry of Education National Scholarship for Postgraduates (**TOP 1%**), 2022.11.
 * Ping An AI BANK Fellowship (**TOP 5%**), 2021.09.
 * Beijing Outstanding Graduate (**TOP 5%**), 2020.07.
