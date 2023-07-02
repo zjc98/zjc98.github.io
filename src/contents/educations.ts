@@ -27,7 +27,7 @@ const educations = [
           'https://www.sigs.tsinghua.edu.cn/en/'
         ],
         ', ',
-        ['Tsinghua University', 'link', 'www.tsinghua.edu.cn'],
+        ['Tsinghua University', 'link', 'https://www.tsinghua.edu.cn'],
         ', supervised by ',
         [
           'Prof. Chun Yuan',
