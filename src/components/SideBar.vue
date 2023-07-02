@@ -45,7 +45,7 @@ const externLinks = computed(() => [
   },
   {
     icon: 'graduation',
-    text: 'Graduation',
+    text: 'Google Scholar',
     link: 'https://scholar.google.com/citations?user=0n4SuDUAAAAJ'
   }
 ]);
