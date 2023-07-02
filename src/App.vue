@@ -37,6 +37,7 @@ body {
   color: var(--text-color);
   text-decoration-color: var(--link-color);
   width: 100%;
+  font-family: optima, Optima Bold, Microsoft YaHei, Times New Roman, Times, serif;
 }
 
 header {
