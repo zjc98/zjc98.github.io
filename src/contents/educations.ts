@@ -22,11 +22,19 @@ const educations = [
       [
         'Master in Computer Technology at ',
         [
-          'Tsinghua Shenzhen International Graduate School, Tsinghua University',
+          'Tsinghua Shenzhen International Graduate School',
           'link',
           'https://www.sigs.tsinghua.edu.cn/en/'
         ],
-        ', supervised by Prof. Chun Yuan.'
+        ', ',
+        ['Tsinghua University', 'link', 'www.tsinghua.edu.cn'],
+        ', supervised by ',
+        [
+          'Prof. Chun Yuan',
+          'link',
+          'https://scholar.google.com/citations?user=fYdxi2sAAAAJ&hl=zh-CN&oi=ao'
+        ],
+        '.'
       ],
       ['GPA: ', ['3.74', 'bold'], '/4.00'],
       ['Research Topics: Computer Vision, Computer Graphics, Machine Learning.']
