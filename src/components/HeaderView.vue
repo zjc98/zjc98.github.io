@@ -17,10 +17,14 @@ import { state } from '@/store';
 function changeMode() {
   if (state.theme === 'day') {
     state.theme = 'dark';
-    document.querySelector('body')?.classList.add('dark-mode');
+    const body = document.querySelector('body');
+    body?.classList.remove('light-mode');
+    body?.classList.add('dark-mode');
   } else {
     state.theme = 'day';
-    document.querySelector('body')?.classList.remove('dark-mode');
+    const body = document.querySelector('body');
+    body?.classList.remove('dark-mode');
+    body?.classList.add('light-mode');
   }
 }
 </script>

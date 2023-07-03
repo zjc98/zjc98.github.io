@@ -27,6 +27,7 @@ import HeaderView from './components/HeaderView.vue';
   --text-color-dark: #d6d6d6;
   --link-color-dark: rgb(230, 230, 230);
   --background-color-dark: #1f1f1f;
+  --background-color: #ffffff;
 }
 
 html,
@@ -70,9 +71,42 @@ main > div {
   width: 100%;
 }
 
+@keyframes switch-theme-light {
+  0% {
+    background-color: var(--background-color-dark);
+    color: var(--text-color-dark);
+  }
+  100% {
+    background-color: var(--background-color);
+    color: var(--text-color);
+  }
+}
+
+@keyframes switch-theme-dark {
+  0% {
+    background-color: var(--background-color);
+    color: var(--text-color);
+  }
+  100% {
+    background-color: var(--background-color-dark);
+    color: var(--text-color-dark);
+  }
+}
+
+.light-mode {
+  color: var(--text-color);
+  background-color: (--background-color);
+  animation: switch-theme-light 0.5s linear;
+}
+
+.dark-mode a {
+  color: var(--link-color);
+}
+
 .dark-mode {
   color: var(--text-color-dark);
   background-color: var(--background-color-dark);
+  animation: switch-theme-dark 0.5s linear;
 }
 
 .dark-mode a {
