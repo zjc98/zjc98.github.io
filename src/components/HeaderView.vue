@@ -13,6 +13,7 @@
 
 <script setup lang="ts">
 import { state } from '@/store';
+import { onMounted } from 'vue';
 
 function changeMode() {
   if (state.theme === 'day') {
@@ -27,6 +28,12 @@ function changeMode() {
     body?.classList.add('light-mode');
   }
 }
+
+onMounted(() => {
+  state.theme = 'dark';
+  const body = document.querySelector('body');
+  body?.classList.add('dark-mode');
+});
 </script>
 
 <style scoped>
