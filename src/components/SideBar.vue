@@ -3,7 +3,7 @@
     <div class="profile">
       <img src="@/assets/profile.png" alt="Zenghao Chai" class="avatar" />
       <div class="name">Zenghao Chai</div>
-      <div class="degree">Master</div>
+      <div class="degree">Ph.D. Student</div>
     </div>
     <div class="extern">
       <div class="link" v-for="(item, index) in externLinks" :key="index">
@@ -25,8 +25,8 @@ import { computed } from 'vue';
 const externLinks = computed(() => [
   {
     icon: 'location',
-    text: 'Tsinghua University, China',
-    link: 'https://www.tsinghua.edu.cn/'
+    text: 'NUS, SG',
+    link: 'https://nus.edu.sg/'
   },
   {
     icon: 'email',
