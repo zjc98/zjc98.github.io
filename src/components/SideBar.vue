@@ -55,6 +55,7 @@ const externLinks = computed(() => [
 .sidebar {
   position: fixed;
 }
+
 .profile img {
   width: 100%;
   max-width: 175px;
@@ -79,6 +80,7 @@ const externLinks = computed(() => [
 .extern .link {
   display: flex;
   align-items: center;
+  line-height: 2rem;
 }
 
 .extern .link:not(:first-child) {
@@ -100,5 +102,32 @@ const externLinks = computed(() => [
   width: 20px;
   display: flex;
   justify-content: center;
+}
+
+@media screen and (max-width: 640px) {
+  .sidebar {
+    position: relative;
+    width: 100%;
+    text-align: center;
+  }
+
+  .profile .name,
+  .profile .degree {
+    text-align: center;
+  }
+
+  .extern {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .extern .link:not(:first-child) {
+    margin-top: 0;
+    margin-left: 1rem;
+  }
 }
 </style>

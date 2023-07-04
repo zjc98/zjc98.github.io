@@ -142,6 +142,18 @@ function toAuthorArray(authors: string) {
   line-height: 1.5rem;
 }
 
+@media screen and (max-width: 640px) {
+  .main-view {
+    padding-left: 0;
+    margin-top: 2rem;
+  }
+  .main-view h1 {
+    word-break: break-all;
+    text-align: center;
+    font-size: 28px;
+  }
+}
+
 .biography a {
   color: var(--link-color);
 }

@@ -44,6 +44,7 @@ body {
 header {
   display: flex;
   justify-content: center;
+  padding: 0px 16px;
 }
 
 #app {
@@ -69,6 +70,21 @@ main {
 main > div {
   max-width: 1024px;
   width: 100%;
+}
+
+@media screen and (max-width: 640px) {
+  main {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+
+  main > div {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
 }
 
 @keyframes switch-theme-light {
