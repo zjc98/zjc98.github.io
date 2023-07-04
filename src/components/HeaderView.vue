@@ -30,9 +30,13 @@ function changeMode() {
 }
 
 onMounted(() => {
-  state.theme = 'dark';
   const body = document.querySelector('body');
+  // 默认黑色主题
+  state.theme = 'dark';
   body?.classList.add('dark-mode');
+
+  // 默认白色主题
+  // body?.classList.add('light-mode');
 });
 </script>
 
