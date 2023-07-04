@@ -32,7 +32,7 @@ const educations = [
         [
           'Prof. Chun Yuan',
           'link',
-          'https://scholar.google.com/citations?user=fYdxi2sAAAAJ&hl=zh-CN&oi=ao'
+          'https://scholar.google.com/citations?user=fYdxi2sAAAAJ'
         ],
         '.'
       ],
