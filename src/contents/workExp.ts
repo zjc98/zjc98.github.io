@@ -14,7 +14,8 @@ const workExps = [
         'Supervised by ',
         ['Xu Tan', 'link', 'https://www.microsoft.com/en-us/research/people/xuta/'],
         ' and ',
-        ['Tianyu He', 'link', 'https://www.microsoft.com/en-us/research/people/tianyuhe/']
+        ['Tianyu He', 'link', 'https://www.microsoft.com/en-us/research/people/tianyuhe/'],
+        '.'
       ],
       ['Research Topics: Talking Face Generation, 3D Face Reconstruction.']
     ],

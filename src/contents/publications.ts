@@ -9,7 +9,7 @@ const publications = [
     title: 'HiFace: High-Fidelity 3D Face Reconstruction by Learning Static and Dynamic Details',
     authors:
       'Zenghao Chai, Tianke Zhang, Tianyu He, Xu Tan, Tadas Baltrušaitis, HsiangTao Wu, Runnan Li, Sheng Zhao, Chun Yuan, Jiang Bian',
-    pub: 'arXiv, 2023.',
+    pub: 'IEEE/CVF International Conference on Computer Vision (ICCV), 2023.',
     resources: [
       { link: 'https://arxiv.org/abs/2303.11225', label: 'arXiv', icon: 'arxiv' },
       { link: 'https://project-hiface.github.io/', label: 'Page', icon: 'home' }
