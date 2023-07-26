@@ -18,8 +18,8 @@ const publications = [
   {
     title:
       'Searching Transferable Mixed-Precision Quantization Policy through Large Margin Regularization',
-    authors: 'Chen Tang, Kai Ouyang, Zenghao Chai, Yunpeng Bai, Zhi Wang',
-    pub: 'arXiv, 2023.',
+    authors: 'Chen Tang, Kai Ouyang, Zenghao Chai, Yuan Meng, Zhi Wang, Wenwu Zhu',
+    pub: 'ACM International Conference on Multimedia (ACM MM), 2023.',
     resources: [{ link: 'https://arxiv.org/abs/2302.06845', label: 'arXiv', icon: 'arxiv' }]
   },
   {
@@ -175,11 +175,6 @@ const publications = [
       { link: 'https://arxiv.org/abs/2111.03874', label: 'arXiv', icon: 'arxiv' },
       { link: 'https://github.com/XuZhengzhuo/Prior-LT', label: 'Github', icon: 'github' },
       {
-        link: 'https://openreview.net/forum?id=vqzAfN-BoA_',
-        label: 'OpenReview',
-        icon: 'openreview'
-      },
-      {
         link: 'https://proceedings.neurips.cc/paper_files/paper/2021/file/39ae2ed11b14a4ccb41d35e9d1ba5d11-Paper.pdf',
         label: 'PDF',
         icon: 'pdf'
@@ -191,45 +186,6 @@ const publications = [
       }
     ]
   },
-  {
-    title:
-      'Research on Learning Mechanism Designing for Equilibrated Bipolar Spiking Neural Networks',
-    authors:
-      'Xu Yang, Jiajun Lin, Wenhao Zheng, Jinfeng Zhao, Mengyao Ji, Yunlin Lei, Zenghao Chai.',
-    pub: 'Artificial Intelligence Review, 2020.',
-    resources: [
-      {
-        link: 'https://link.springer.com/article/10.1007/s10462-020-09818-5',
-        label: 'Springer',
-        icon: 'springer'
-      }
-    ]
-  },
-  {
-    title: 'Constructing an Associative Memory System Using Spiking Neural Network',
-    authors:
-      'Hu He, Yingjie Shang, Xu Yang, Yingze Di, Jiajun Lin, Yimeng Zhu, Wenhao Zheng, Jinfeng Zhao, Mengyao Ji, Liya Dong, Ning Deng, Yunlin Lei, Zenghao Chai.',
-    pub: 'Frontiers in neuroscience, 2019.',
-    resources: [
-      {
-        link: 'https://www.frontiersin.org/articles/10.3389/fnins.2019.00650/full',
-        label: 'Frontiers',
-        icon: 'frontiers'
-      }
-    ]
-  },
-  {
-    title: 'Amazons Evaluation Optimization Strategy Based on PSO Algorithm',
-    authors: 'Zenghao Chai, Zhiyuan Fang, Jie Zhu.',
-    pub: 'Chinese Control And Decision Conference (CCDC), 2019.',
-    resources: [
-      {
-        link: 'https://ieeexplore.ieee.org/abstract/document/8832447',
-        label: 'IEEE',
-        icon: 'ieee'
-      }
-    ]
-  }
 ];
 
 export default publications;
