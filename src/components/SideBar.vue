@@ -25,7 +25,7 @@ import { computed } from 'vue';
 const externLinks = computed(() => [
   {
     icon: 'location',
-    text: 'NUS, SG',
+    text: 'NUS, Singapore',
     link: 'https://nus.edu.sg/'
   },
   {
