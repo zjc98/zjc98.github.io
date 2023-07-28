@@ -18,7 +18,7 @@ const publications = [
   {
     title:
       'Searching Transferable Mixed-Precision Quantization Policy through Large Margin Regularization',
-    authors: 'Chen Tang, Kai Ouyang, Zenghao Chai, Yuan Meng, Zhi Wang, Wenwu Zhu',
+    authors: 'Chen Tang, Kai Ouyang, Zenghao Chai, Yunpeng Bai, Yuan Meng, Zhi Wang, Wenwu Zhu',
     pub: 'ACM International Conference on Multimedia (ACM MM), 2023.',
     resources: [{ link: 'https://arxiv.org/abs/2302.06845', label: 'arXiv', icon: 'arxiv' }]
   },
