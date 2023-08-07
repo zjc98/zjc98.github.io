@@ -6,6 +6,13 @@ const publications = [
     resources: [{ link: 'https://arxiv.org/abs/2305.03378', label: 'arXiv', icon: 'arxiv' }]
   },
   {
+    title:
+      'ERA-Solver: Error-Robust Adams Solver for Fast Sampling of Diffusion Probabilistic Models',
+    authors: 'Shengmeng Li, Luping Liu, Zenghao Chai, Runnan Li, Xu Tan',
+    pub: 'arXiv, 2023.',
+    resources: [{ link: 'https://arxiv.org/abs/2301.12935', label: 'arXiv', icon: 'arxiv' }]
+  },
+  {
     title: 'HiFace: High-Fidelity 3D Face Reconstruction by Learning Static and Dynamic Details',
     authors:
       'Zenghao Chai, Tianke Zhang, Tianyu He, Xu Tan, Tadas Baltrušaitis, HsiangTao Wu, Runnan Li, Sheng Zhao, Chun Yuan, Jiang Bian',
@@ -16,18 +23,10 @@ const publications = [
     ]
   },
   {
-    title:
-      'Searching Transferable Mixed-Precision Quantization Policy through Large Margin Regularization',
-    authors: 'Chen Tang, Kai Ouyang, Zenghao Chai, Yunpeng Bai, Yuan Meng, Zhi Wang, Wenwu Zhu',
+    title: 'SEAM: Searching Transferable Mixed-Precision Quantization Policy through Large Margin Regularization',
+    authors: 'Chen Tang, Kai Ouyang, Zenghao Chai, Yunpeng Bai, Yuan Meng, Wenwu Zhu, Zhi Wang',
     pub: 'ACM International Conference on Multimedia (ACM MM), 2023.',
     resources: [{ link: 'https://arxiv.org/abs/2302.06845', label: 'arXiv', icon: 'arxiv' }]
-  },
-  {
-    title:
-      'ERA-Solver: Error-Robust Adams Solver for Fast Sampling of Diffusion Probabilistic Models',
-    authors: 'Shengmeng Li, Luping Liu, Zenghao Chai, Runnan Li, Xu Tan',
-    pub: 'arXiv, 2023.',
-    resources: [{ link: 'https://arxiv.org/abs/2301.12935', label: 'arXiv', icon: 'arxiv' }]
   },
   {
     title: 'Learning Imbalanced Data with Vision Transformers',
