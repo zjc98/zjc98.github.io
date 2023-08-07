@@ -3,16 +3,14 @@
     <h1>Welcome to my homepage</h1>
     <MainBlock title="Biography">
       <p class="biography">
-        I am an incoming Ph.D. student in Computer Science at
+        I am currently a Ph.D. student in Computer Science at
         <a href="https://www.comp.nus.edu.sg/">School of Computing</a>,
         <a href="https://nus.edu.sg/">National University of Singapore</a>, fully supported by
-        President’s Graduate Fellowship. I received my Master degree in Computer Technology at
+        President’s Graduate Fellowship. Prior to join NUS, I received M.Eng in Computer Technology at
         <a href="https://www.sigs.tsinghua.edu.cn/en/"
           >Tsinghua Shenzhen International Graduate School</a
         >, <a href="https://www.tsinghua.edu.cn/en/">Tsinghua University</a>, supervised by Prof.
-        <a href="https://www.sigs.tsinghua.edu.cn/yc2_en/main.htm">Chun Yuan</a>. My research
-        interests are in Computer Vision and Computer Graphics. Before that, I received my Bachelor
-        degree in Software Engineering from
+        <a href="https://www.sigs.tsinghua.edu.cn/yc2_en/main.htm">Chun Yuan</a>.  Before that, I received B.Eng in Software Engineering from
         <a href="https://cs.bit.edu.cn">School of Computer Science &amp; Technology</a>,
         <a href="https://english.bit.edu.cn/">Beijing Institute of Technology</a>.
       </p>
