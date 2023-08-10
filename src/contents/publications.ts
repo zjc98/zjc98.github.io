@@ -120,7 +120,7 @@ const publications = [
   {
     title: 'HyP2 Loss: Beyond Hypersphere Metric Space for Multi-label Image Retrieval',
     authors:
-      'Yunpeng Bai, Chao Dong, Zenghao Chai, Andong Wang, Zhengzhuo Xu, Chun YuanChengyin Xu*, Zenghao Chai*, Zhengzhuo Xu, Chun Yuan, Yanbo Fan, Jue Wang.',
+      'Chengyin Xu*, Zenghao Chai*, Zhengzhuo Xu, Chun Yuan, Yanbo Fan, Jue Wang.',
     pub: 'ACM International Conference on Multimedia (ACM MM), 2022.',
     resources: [
       { link: 'https://arxiv.org/abs/2208.06866', label: 'arXiv', icon: 'arxiv' },
