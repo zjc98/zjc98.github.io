@@ -2,15 +2,8 @@ const publications = [
   {
     title: 'Towards Effective Collaborative Learning in Long-Tailed Recognition',
     authors: 'Zhengzhuo Xu*, Zenghao Chai*, Chengyin Xu, Chun Yuan, Haiqin Yang',
-    pub: 'arXiv, 2023.',
+    pub: 'IEEE Transactions on Multimedia (TMM), 2023.',
     resources: [{ link: 'https://arxiv.org/abs/2305.03378', label: 'arXiv', icon: 'arxiv' }]
-  },
-  {
-    title:
-      'ERA-Solver: Error-Robust Adams Solver for Fast Sampling of Diffusion Probabilistic Models',
-    authors: 'Shengmeng Li, Luping Liu, Zenghao Chai, Runnan Li, Xu Tan',
-    pub: 'arXiv, 2023.',
-    resources: [{ link: 'https://arxiv.org/abs/2301.12935', label: 'arXiv', icon: 'arxiv' }]
   },
   {
     title: 'HiFace: High-Fidelity 3D Face Reconstruction by Learning Static and Dynamic Details',
@@ -184,6 +177,13 @@ const publications = [
         icon: 'supp'
       }
     ]
+  },
+  {
+    title:
+      'ERA-Solver: Error-Robust Adams Solver for Fast Sampling of Diffusion Probabilistic Models',
+    authors: 'Shengmeng Li, Luping Liu, Zenghao Chai, Runnan Li, Xu Tan',
+    pub: 'arXiv, 2023.',
+    resources: [{ link: 'https://arxiv.org/abs/2301.12935', label: 'arXiv', icon: 'arxiv' }]
   },
 ];
 
