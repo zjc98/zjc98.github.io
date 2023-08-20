@@ -3,6 +3,23 @@
     <h1>Welcome to my homepage</h1>
     <MainBlock title="Biography">
       <p class="biography">
+        I'm a third-year graduate student in Electronics Information at
+        <a href="https://en.sjtu.edu.cn/">Shanghai Jiao Tong University</a>,
+        supervised by Assoc Prof. <a href="http://www.ie.sjtu.edu.cn/data/view/554">Jiamiao Yang</a>.
+        I received my Bachelor degree in Instrumental Science from
+        <a href="https://opt.bit.edu.cn/">school of optics and photonics</a>, 
+        <a href="https://english.bit.edu.cn/">Beijing Institute of Technology</a>.
+      </p>
+      <p class="biography">
+        My Master's research project is on high accuracy and large dynamic range Shack-hartmnn sensors. 
+        I have also done some work in computational optics, optical industrial inspection, 
+        Camera imaging algorithms and simulation.
+      </p>
+      <p class="biography">
+        Click <a href="/files/Zenghao_Chai_CV.pdf">here</a> to find my up-to-date CV.
+      </p>
+
+      <p class="biography">
         I am currently a Ph.D. student in Computer Science at
         <a href="https://www.comp.nus.edu.sg/">School of Computing</a>,
         <a href="https://nus.edu.sg/">National University of Singapore</a>, fully supported by
