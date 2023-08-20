@@ -6,9 +6,9 @@
       <span style="margin: 0px 5px">
         <IconView type="github" />
       </span>
-      <a href="http://github.com/czh-98">GITHUB</a>
+      <a href="http://github.com/zjc98">GITHUB</a>
     </div>
-    <div>© 2023 Zenghao Chai. Powered by Jekyll & AcademicPages, a fork of Minimal Mistakes.</div>
+    <div>© 2023 Jihong Zhou. Powered by Jekyll & AcademicPages, a fork of Minimal Mistakes.</div>
   </div>
 </template>
 

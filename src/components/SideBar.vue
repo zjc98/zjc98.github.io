@@ -41,7 +41,7 @@ const externLinks = computed(() => [
   {
     icon: 'github',
     text: 'Github',
-    link: 'https://github.com/czh-98'
+    link: 'https://github.com/zjc98'
   },
   {
     icon: 'graduation',
