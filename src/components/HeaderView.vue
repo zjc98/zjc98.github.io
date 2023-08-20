@@ -36,6 +36,7 @@ onMounted(() => {
   // body?.classList.add('dark-mode');
 
   // 默认白色主题
+  state.theme = 'day';
   body?.classList.add('light-mode');
 });
 </script>

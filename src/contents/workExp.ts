@@ -1,5 +1,5 @@
-import msraLogo from '@/assets/msra.png';
-import tecentLogo from '@/assets/tencent.png';
+import huaweiLogo from '@/assets/huawei.png';
+
 
 const workExps = [
   {
@@ -19,25 +19,9 @@ const workExps = [
       ],
       ['Research Topics: Talking Face Generation, 3D Face Reconstruction.']
     ],
-    logo: msraLogo
+    logo: huaweiLogo
   },
-  {
-    time: '2021.03 - 2022.05',
-    details: [
-      [
-        'Research Intern at ',
-        ['Tencent AI Lab', 'link', 'https://ai.tencent.com/ailab/en/index/'],
-        ', Digital Human Team, Shenzhen, China.'
-      ],
-      [
-        'Supervised by ',
-        ['Linchao Bao', 'link', 'http://linchaobao.github.io/'],
-        ' and Haoxian Zhang.'
-      ],
-      ['Research Topics: 3D Face Reconstruction, 3D Face Modeling & Evaluation.']
-    ],
-    logo: tecentLogo
-  }
+  
 ];
 
 export default workExps;
