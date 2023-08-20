@@ -12,27 +12,12 @@
       </p>
       <p class="biography">
         My Master's research project is on high accuracy and large dynamic range Shack-hartmnn sensors. 
-        I have also done some work in computational optics, optical industrial inspection, 
-        Camera imaging algorithms and simulation.
+        I have also done some work in computational optics, optical measurement, 
+        camera imaging algorithms and simulation.
       </p>
       <p class="biography">
-        Click <a href="/files/Zenghao_Chai_CV.pdf">here</a> to find my up-to-date CV.
-      </p>
-
-      <p class="biography">
-        I am currently a Ph.D. student in Computer Science at
-        <a href="https://www.comp.nus.edu.sg/">School of Computing</a>,
-        <a href="https://nus.edu.sg/">National University of Singapore</a>, fully supported by
-        President’s Graduate Fellowship. Prior to join NUS, I received M.Eng in Computer Technology at
-        <a href="https://www.sigs.tsinghua.edu.cn/en/"
-          >Tsinghua Shenzhen International Graduate School</a
-        >, <a href="https://www.tsinghua.edu.cn/en/">Tsinghua University</a>, supervised by Prof.
-        <a href="https://www.sigs.tsinghua.edu.cn/yc2_en/main.htm">Chun Yuan</a>.  Before that, I received B.Eng in Software Engineering from
-        <a href="https://cs.bit.edu.cn">School of Computer Science &amp; Technology</a>,
-        <a href="https://english.bit.edu.cn/">Beijing Institute of Technology</a>.
-      </p>
-      <p class="biography">
-        Click <a href="/files/Zenghao_Chai_CV.pdf">here</a> to find my up-to-date CV.
+        I am looking for a job or Ph.D. opportunity in the field of optical imaging, optical measurement,
+        image processing, etc. Click <a href="/files/CV_Jichong Zhou.pdf">here</a> to find my up-to-date CV.
       </p>
     </MainBlock>
     <MainBlock title="Education">
@@ -138,7 +123,7 @@ function toAuthorArray(authors: string) {
     .split(',')
     .map((author) => author.trim())
     .map((author) => {
-      if (author.startsWith('Zenghao Chai')) {
+      if (author.startsWith('Jichong Zhou')) {
         return [author, 'bold'];
       }
       return author;

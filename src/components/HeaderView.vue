@@ -1,6 +1,6 @@
 <template>
   <div class="header">
-    <div>ZENGHAO CHAI</div>
+    <div>JICHONG ZHOU</div>
     <img v-if="state.theme === 'day'" src="@/assets/sun-solid.svg" alt="sun" @click="changeMode" />
     <img
       v-else-if="state.theme === 'dark'"
@@ -32,11 +32,11 @@ function changeMode() {
 onMounted(() => {
   const body = document.querySelector('body');
   // 默认黑色主题
-  state.theme = 'dark';
-  body?.classList.add('dark-mode');
+  // state.theme = 'dark';
+  // body?.classList.add('dark-mode');
 
   // 默认白色主题
-  // body?.classList.add('light-mode');
+  body?.classList.add('light-mode');
 });
 </script>
 

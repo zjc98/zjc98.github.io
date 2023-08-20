@@ -1,9 +1,9 @@
 <template>
   <div class="sidebar">
     <div class="profile">
-      <img src="@/assets/profile.png" alt="Zenghao Chai" class="avatar" />
-      <div class="name">Zenghao Chai</div>
-      <div class="degree">Ph.D. Student</div>
+      <img src="@/assets/my_profile.jpg" alt="Jichong Zhou" class="avatar" />
+      <div class="name">Jichong Zhou</div>
+      <div class="degree">Master Student</div>
     </div>
     <div class="extern">
       <div class="link" v-for="(item, index) in externLinks" :key="index">
@@ -25,18 +25,13 @@ import { computed } from 'vue';
 const externLinks = computed(() => [
   {
     icon: 'location',
-    text: 'NUS, Singapore',
-    link: 'https://nus.edu.sg/'
+    text: 'SJTU, Shanghai',
+    link: 'https://en.sjtu.edu.cn/'
   },
   {
     icon: 'email',
     text: 'Email',
-    link: 'mailto:zenghaochai@gmail.com'
-  },
-  {
-    icon: 'linkedin',
-    text: 'Linkedin',
-    link: 'https://www.linkedin.com/in/zenghaochai'
+    link: 'mailto:nolan_zjc@sjtu.edu.cn'
   },
   {
     icon: 'github',
@@ -46,7 +41,7 @@ const externLinks = computed(() => [
   {
     icon: 'graduation',
     text: 'Google Scholar',
-    link: 'https://scholar.google.com/citations?user=0n4SuDUAAAAJ'
+    link: 'https://scholar.google.com/citations?user=FJvVKysAAAAJ'
   }
 ]);
 </script>
