@@ -1,4 +1,4 @@
-import huaweiLogo from '@/assets/huawei.png';
+import huaweiLogo from '@/assets/huawei.jpg';
 
 
 const workExps = [
