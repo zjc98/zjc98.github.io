@@ -1,23 +1,20 @@
-import huaweiLogo from '@/assets/huawei.jpg';
+import huaweiLogo from '@/assets/huawei.png';
 
 
 const workExps = [
   {
-    time: '2022.05 - 2023.03',
+    time: '2023.07 - 2023.08',
     details: [
       [
-        'Research Intern at ',
-        ['Microsoft Research Asia', 'link', 'https://www.msra.cn/'],
-        ', Machine Learning Group, Beijing, China.'
+        'Media Algorithm Intern at ',
+        ['Huawei Technologies Co., Ltd.', 'link', 'https://www.huawei.com/en/'],
+        ', Camera Department, Shanghai, China.'
       ],
       [
-        'Supervised by ',
-        ['Xu Tan', 'link', 'https://www.microsoft.com/en-us/research/people/xuta/'],
-        ' and ',
-        ['Tianyu He', 'link', 'https://www.microsoft.com/en-us/research/people/tianyuhe/'],
-        '.'
+        'Participate in camera simulation work in the Camera Simulation Group,',
+        'build end-to-end simulation model of camera from optical imaging to image process.'
       ],
-      ['Research Topics: Talking Face Generation, 3D Face Reconstruction.']
+      [ 'Mainly responsible for analyzing stray light (flare phenomenon) using physical optics.']
     ],
     logo: huaweiLogo
   },
